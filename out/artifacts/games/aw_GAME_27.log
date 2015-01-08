@@ -1,0 +1,842 @@
+29/11 01:22:01 FINE aw.TACAgent|Log for game 27 started
+************************************************************
+* Log for game 27 started
+************************************************************
+
+
+29/11 01:22:01 FINE aw.TACAgent|Starting up game: 27
+29/11 01:22:01 FINE aw.PostTraumaticAgent|Game 27 started!
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:4, Out-flight Pref.:5
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:1, Out-flight Pref.:2
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:2, Out-flight Pref.:5
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:1, Out-flight Pref.:2
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:1, Out-flight Pref.:2
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:3, Out-flight Pref.:5
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:4, Out-flight Pref.:5
+29/11 01:22:01 FINE aw.PostTraumaticAgent|In-flight Pref:2, Out-flight Pref.:5
+29/11 01:22:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 1204
+29/11 01:22:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23352 auction=8 state=valid
+29/11 01:22:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23353 auction=12 state=valid
+29/11 01:22:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23354 auction=13 state=valid
+29/11 01:22:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23355 auction=14 state=valid
+29/11 01:22:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23356 auction=15 state=valid
+29/11 01:22:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 11184
+29/11 01:22:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 21185
+29/11 01:22:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 31220
+29/11 01:22:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 41190
+29/11 01:22:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23352 auction=8 state=valid
+29/11 01:22:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23353 auction=12 state=valid
+29/11 01:22:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23354 auction=13 state=valid
+29/11 01:22:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23355 auction=14 state=valid
+29/11 01:22:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23356 auction=15 state=valid
+29/11 01:22:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 51195
+29/11 01:23:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Cheap Hotel 1 for client: 3
+29/11 01:23:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Cheap Hotel 1 for client: 3
+29/11 01:23:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Cheap Hotel 1 for client: 3
+29/11 01:23:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Cheap Hotel 1 for client: 3
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 1
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 61203
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 549
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 547
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 2
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 120000
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 2 has HQW ? true, HQW:2
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:13
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 1
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 61292
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 407
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 405
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 2
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 120000
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:3
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 1
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 61309
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 476
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 474
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 2
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 120000
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:5
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:15
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 1
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 61332
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 688
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Current Price is: 686
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 2
+29/11 01:23:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 120000
+29/11 01:23:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 61371
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Auction 8 closed!
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23357 auction=12 state=valid
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23358 auction=13 state=valid
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23359 auction=14 state=valid
+29/11 01:23:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23360 auction=15 state=valid
+29/11 01:23:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 71205
+29/11 01:23:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23357 auction=12 state=valid
+29/11 01:23:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23358 auction=13 state=valid
+29/11 01:23:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23359 auction=14 state=valid
+29/11 01:23:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23360 auction=15 state=valid
+29/11 01:23:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 81211
+29/11 01:23:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 91253
+29/11 01:23:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 101227
+29/11 01:23:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23357 auction=12 state=valid
+29/11 01:23:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23358 auction=13 state=valid
+29/11 01:23:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23359 auction=14 state=valid
+29/11 01:23:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23360 auction=15 state=valid
+29/11 01:23:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 111235
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121224
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 364
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 547.0
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 183
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 2 has HQW ? true, HQW:2
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:13
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121230
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 272
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 405.0
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 133
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:3
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121240
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 376
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 474.0
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 98
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:5
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:15
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121251
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 429
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 686.0
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Current Price is: 257
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+29/11 01:24:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+29/11 01:24:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 121315
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Auction 10 closed!
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23483 auction=12 state=valid
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23484 auction=13 state=valid
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23485 auction=14 state=valid
+29/11 01:24:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23486 auction=15 state=valid
+29/11 01:24:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 131236
+29/11 01:24:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23483 auction=12 state=valid
+29/11 01:24:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23484 auction=13 state=valid
+29/11 01:24:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23485 auction=14 state=valid
+29/11 01:24:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23486 auction=15 state=valid
+29/11 01:24:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 141240
+29/11 01:24:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 151260
+29/11 01:24:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 161258
+29/11 01:24:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23483 auction=12 state=valid
+29/11 01:24:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23484 auction=13 state=valid
+29/11 01:24:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23485 auction=14 state=valid
+29/11 01:24:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23486 auction=15 state=valid
+29/11 01:24:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 171270
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181267
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 298
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 183.0
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 115
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 2 has HQW ? true, HQW:2
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:13
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181282
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 275
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 271.0
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 4
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:3
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181304
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 387
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 243.0
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 144
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:5
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:15
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181320
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 363
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 257.0
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Current Price is: 106
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+29/11 01:25:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+29/11 01:25:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 181370
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Auction 9 closed!
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23586 auction=12 state=valid
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23587 auction=13 state=valid
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23588 auction=14 state=valid
+29/11 01:25:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23589 auction=15 state=valid
+29/11 01:25:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 191276
+29/11 01:25:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23586 auction=12 state=valid
+29/11 01:25:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23587 auction=13 state=valid
+29/11 01:25:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23588 auction=14 state=valid
+29/11 01:25:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23589 auction=15 state=valid
+29/11 01:25:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 201281
+29/11 01:25:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 211310
+29/11 01:25:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 221304
+29/11 01:25:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23586 auction=12 state=valid
+29/11 01:25:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23587 auction=13 state=valid
+29/11 01:25:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23588 auction=14 state=valid
+29/11 01:25:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23589 auction=15 state=valid
+29/11 01:25:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 231299
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 4
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 241293
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 306
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current Price is: 115.0
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current Price is: 191
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 5
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 300000
+29/11 01:26:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 2 for client: 1
+29/11 01:26:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 2 for client: 1
+29/11 01:26:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 2 for client: 1
+29/11 01:26:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 2 for client: 1
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? false, HQW:3
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 4
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 241306
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 405
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current Price is: 306.0
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current Price is: 99
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 5
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 300000
+29/11 01:26:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 2 for client: 2
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? false, HQW:3
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:5
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:15
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 4
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 241320
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 345
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current Price is: 106.0
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Current Price is: 239
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 5
+29/11 01:26:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 300000
+29/11 01:26:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 241358
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23684 auction=12 state=valid
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23685 auction=14 state=valid
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Auction 13 closed!
+29/11 01:26:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23686 auction=15 state=valid
+29/11 01:26:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 251306
+29/11 01:26:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23684 auction=12 state=valid
+29/11 01:26:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23685 auction=14 state=valid
+29/11 01:26:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23686 auction=15 state=valid
+29/11 01:26:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 261314
+29/11 01:26:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 271336
+29/11 01:26:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 281322
+29/11 01:26:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23684 auction=12 state=valid
+29/11 01:26:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23685 auction=14 state=valid
+29/11 01:26:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23686 auction=15 state=valid
+29/11 01:26:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 291328
+29/11 01:27:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 5
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 301328
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 318
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current Price is: 191.0
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current Price is: 127
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 6
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 360000
+29/11 01:27:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:3
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 5
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 301343
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 412
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current Price is: 261.0
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Current Price is: 151
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 6
+29/11 01:27:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 360000
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 4 for client: 0
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 4 for client: 0
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 4 for client: 0
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 4 for client: 0
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 4 for client: 6
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 4 for client: 6
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 4 for client: 6
+29/11 01:27:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 4 for client: 6
+29/11 01:27:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 301388
+29/11 01:27:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23784 auction=12 state=valid
+29/11 01:27:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23785 auction=14 state=valid
+29/11 01:27:02 FINE aw.PostTraumaticAgent|Auction 15 closed!
+29/11 01:27:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 311339
+29/11 01:27:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23784 auction=12 state=valid
+29/11 01:27:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23785 auction=14 state=valid
+29/11 01:27:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 321346
+29/11 01:27:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 331370
+29/11 01:27:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 341350
+29/11 01:27:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23784 auction=12 state=valid
+29/11 01:27:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23785 auction=14 state=valid
+29/11 01:27:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 351355
+29/11 01:28:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 6
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 361349
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 325
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ Current Price is: 127.0
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ Current Price is: 198
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 7
+29/11 01:28:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 420000
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 3 for client: 2
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 3 for client: 2
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 3 for client: 2
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 2
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 3 for client: 5
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 3 for client: 5
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 3 for client: 5
+29/11 01:28:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 5
+29/11 01:28:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 361413
+29/11 01:28:02 FINE aw.PostTraumaticAgent|Bid Updated: id=23879 auction=12 state=valid
+29/11 01:28:02 FINE aw.PostTraumaticAgent|Auction 14 closed!
+29/11 01:28:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 371364
+29/11 01:28:17 FINE aw.PostTraumaticAgent|Bid Updated: id=23879 auction=12 state=valid
+29/11 01:28:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 381375
+29/11 01:28:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 391412
+29/11 01:28:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 401377
+29/11 01:28:47 FINE aw.PostTraumaticAgent|Bid Updated: id=23879 auction=12 state=valid
+29/11 01:28:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 411382
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 1 for client: 1
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 1 for client: 1
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 1 for client: 1
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 1 for client: 1
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 1 for client: 4
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 1 for client: 4
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 1 for client: 4
+29/11 01:29:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 1 for client: 4
+29/11 01:29:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 421417
+29/11 01:29:02 FINE aw.PostTraumaticAgent|Auction 12 closed!
+29/11 01:29:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 431390
+29/11 01:29:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 441397
+29/11 01:29:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 451417
+29/11 01:29:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 461404
+29/11 01:29:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 471409
+29/11 01:30:02 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 481510
+29/11 01:30:02 FINE aw.PostTraumaticAgent|Auction 11 closed!
+29/11 01:30:12 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 491642
+29/11 01:30:22 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 501647
+29/11 01:30:32 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 511751
+29/11 01:30:42 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 521803
+29/11 01:30:52 FINE aw.PostTraumaticAgent|This is flight auctions update, time: 531810
+29/11 01:31:02 FINE aw.TACAgent|Game 27 has ended
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Start Printing All Flight Prices
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 1 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 2 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 3 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 4 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 2 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 3 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 4 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 5 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Finish Printing All Flight Prices
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Start Printing All Hotel Prices
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 1 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|1217, 332.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|1255, 0.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|11187, 324.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|21186, 329.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|31223, 319.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|41192, 327.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|51197, 323.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|61194, 0.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|61393, 329.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|71209, 326.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|81212, 321.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|91254, 311.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|101228, 314.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|111236, 310.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|121346, 319.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|131237, 322.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|141241, 320.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|151261, 313.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|161259, 305.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|171273, 299.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|181382, 290.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|191276, 292.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|201283, 286.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|211312, 284.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|221305, 293.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|231300, 288.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|241377, 288.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|251307, 287.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|261319, 280.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|271336, 282.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|281323, 273.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|291329, 276.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|301391, 280.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|311340, 273.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|321346, 266.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|331371, 258.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|341350, 266.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|351355, 270.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|361421, 263.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|371365, 256.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|381376, 251.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|391413, 241.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|401378, 236.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|411383, 239.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|421417, 236.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|431391, 237.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|441397, 240.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|451418, 234.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|461405, 227.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|471409, 225.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|481529, 222.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|491643, 224.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|501647, 218.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|511752, 218.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|521804, 209.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|531810, 208.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 2 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|1217, 252.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|1258, 0.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|11187, 259.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|21186, 251.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|31223, 247.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|41192, 253.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|51197, 255.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|61194, 157.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|61393, 250.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|71209, 258.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|81212, 263.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|91254, 268.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|101228, 267.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|111236, 274.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|121217, 196.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|121346, 283.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|131237, 289.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|141241, 294.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|151261, 304.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|161259, 297.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|171273, 291.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|181257, 212.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|181382, 293.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|191276, 285.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|201283, 278.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|211312, 272.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|221305, 279.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|231300, 283.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|241377, 282.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|251307, 281.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|261319, 277.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|271336, 271.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|281323, 277.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|291329, 287.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|301391, 294.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|311340, 288.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|321346, 300.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|331371, 311.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|341350, 309.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|351355, 320.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|361421, 317.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|371365, 316.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|381376, 318.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|391413, 322.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|401378, 314.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|411383, 307.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|421417, 313.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|431391, 317.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|441397, 323.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|451418, 332.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|461405, 322.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|471409, 312.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|481529, 311.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|491643, 315.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|501647, 327.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|511752, 323.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|521804, 325.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|531810, 318.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 3 :
+29/11 01:31:02 FINE aw.PostTraumaticAgent|1217, 253.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|1262, 0.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|11187, 255.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|21186, 248.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|31223, 247.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|41192, 241.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|51197, 233.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|61195, 163.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|61393, 239.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|71209, 239.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|81212, 249.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|91254, 250.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|101228, 242.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|111236, 238.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|121219, 173.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|121346, 244.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|131237, 239.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|141241, 235.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|151261, 234.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|161259, 230.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|171273, 228.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|181382, 237.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|191276, 231.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|201283, 224.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|211312, 224.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|221305, 225.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|231300, 227.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|241377, 221.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|251307, 215.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|261319, 217.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|271336, 220.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|281323, 225.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|291329, 236.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|301391, 232.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|311340, 241.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|321346, 240.0
+29/11 01:31:02 FINE aw.PostTraumaticAgent|331371, 239.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|341350, 244.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|351355, 243.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361421, 235.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|371365, 229.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|381376, 220.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|391413, 229.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|401378, 227.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|411383, 239.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421417, 229.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|431391, 219.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|441397, 228.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|451418, 230.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|461405, 233.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|471409, 229.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|481529, 233.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|491643, 237.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|501647, 233.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|511752, 223.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|521804, 227.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|531810, 220.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 4 :
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1217, 344.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1263, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|11187, 349.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|21186, 351.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|31223, 358.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|41192, 366.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|51197, 374.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61198, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61393, 370.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|71209, 379.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|81212, 391.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|91254, 386.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|101228, 398.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|111236, 392.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121221, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121346, 396.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|131237, 391.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|141241, 401.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|151261, 414.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|161259, 422.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|171273, 418.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181261, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181382, 419.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|191276, 416.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|201283, 422.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|211312, 417.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|221305, 414.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|231300, 423.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241290, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241377, 418.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|251307, 412.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|261319, 406.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|271336, 398.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|281323, 391.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|291329, 401.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301321, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301391, 395.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|311340, 392.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|321346, 385.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|331371, 375.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|341350, 394.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|351355, 399.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361347, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361421, 396.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|371365, 398.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|381376, 394.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|391413, 397.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|401378, 397.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|411383, 416.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421375, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421417, 424.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|431391, 441.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|441397, 459.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|451418, 457.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|461405, 467.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|471409, 470.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|481436, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|481529, 487.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|491643, 479.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|501647, 500.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|511752, 517.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|521804, 510.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|531810, 513.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 1 :
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1217, 313.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1266, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|11187, 305.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|21186, 298.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|31223, 307.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|41192, 316.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|51197, 309.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61285, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61393, 301.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|71209, 310.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|81212, 311.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|91254, 315.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|101228, 311.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|111236, 304.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121229, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121346, 299.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|131237, 289.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|141241, 285.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|151261, 279.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|161259, 294.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|171273, 305.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181279, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181382, 314.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|191276, 306.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|201283, 310.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|211312, 321.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|221305, 335.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|231300, 335.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241298, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241377, 329.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|251307, 342.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|261319, 345.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|271336, 342.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|281323, 337.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|291329, 331.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301339, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301391, 336.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|311340, 331.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|321346, 340.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|331371, 336.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|341350, 350.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|351355, 368.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361354, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361421, 370.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|371365, 364.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|381376, 358.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|391413, 368.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|401378, 361.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|411383, 370.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421382, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421417, 370.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|431391, 377.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|441397, 393.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|451418, 392.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|461405, 397.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|471409, 403.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|481529, 395.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|491643, 413.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|501647, 435.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|511752, 455.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|521804, 453.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|531810, 454.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 2 :
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1217, 261.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1268, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|11187, 266.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|21186, 258.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|31223, 251.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|41192, 241.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|51197, 240.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61304, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61393, 241.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|71209, 243.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|81212, 243.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|91254, 239.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|101228, 241.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|111236, 251.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121238, 138.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121346, 257.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|131237, 253.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|141241, 251.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|151261, 245.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|161259, 251.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|171273, 254.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181301, 140.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181382, 252.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|191276, 248.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|201283, 245.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|211312, 244.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|221305, 244.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|231300, 240.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241316, 140.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241377, 238.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|251307, 234.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|261319, 238.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|271336, 243.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|281323, 250.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|291329, 241.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301391, 240.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|311340, 243.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|321346, 233.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|331371, 233.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|341350, 227.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|351355, 218.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361421, 222.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|371365, 226.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|381376, 233.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|391413, 238.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|401378, 228.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|411383, 220.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421417, 214.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|431391, 204.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|441397, 199.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|451418, 199.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|461405, 199.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|471409, 208.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|481529, 201.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|491643, 207.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|501647, 198.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|511752, 200.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|521804, 195.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|531810, 185.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 3 :
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1217, 277.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1271, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|11187, 273.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|21186, 267.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|31223, 266.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|41192, 267.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|51197, 278.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61323, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61393, 290.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|71209, 303.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|81212, 301.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|91254, 299.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|101228, 302.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|111236, 307.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121249, 145.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121346, 310.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|131237, 319.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|141241, 329.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|151261, 328.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|161259, 326.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|171273, 338.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181318, 162.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181382, 349.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|191276, 352.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|201283, 357.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|211312, 364.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|221305, 360.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|231300, 354.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241318, 172.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241377, 347.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|251307, 358.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|261319, 371.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|271336, 378.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|281323, 368.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|291329, 385.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301355, 173.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301391, 404.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|311340, 422.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|321346, 412.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|331371, 430.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|341350, 430.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|351355, 427.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361360, 181.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361421, 443.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|371365, 456.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|381376, 480.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|391413, 478.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|401378, 486.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|411383, 495.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421417, 514.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|431391, 537.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|441397, 545.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|451418, 570.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|461405, 586.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|471409, 593.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|481529, 586.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|491643, 614.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|501647, 628.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|511752, 650.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|521804, 660.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|531810, 672.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 4 :
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1217, 357.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|1277, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|11187, 366.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|21186, 376.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|31223, 379.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|41192, 379.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|51197, 377.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61351, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|61393, 371.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|71209, 368.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|81212, 361.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|91254, 370.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|101228, 365.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|111236, 363.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121261, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|121346, 360.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|131237, 366.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|141241, 362.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|151261, 357.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|161259, 356.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|171273, 347.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181339, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|181382, 340.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|191276, 348.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|201283, 358.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|211312, 363.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|221305, 374.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|231300, 376.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241326, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|241377, 368.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|251307, 379.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|261319, 378.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|271336, 378.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|281323, 386.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|291329, 386.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301370, 0.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|301391, 389.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|311340, 384.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|321346, 382.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|331371, 392.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|341350, 395.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|351355, 390.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|361421, 380.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|371365, 391.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|381376, 399.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|391413, 407.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|401378, 401.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|411383, 410.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|421417, 400.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|431391, 391.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|441397, 396.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|451418, 402.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|461405, 407.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|471409, 409.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|481529, 402.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|491643, 405.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|501647, 406.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|511752, 416.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|521804, 423.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|531810, 428.0
+29/11 01:31:03 FINE aw.PostTraumaticAgent|Finish Printing All Hotel Prices
+29/11 01:31:03 FINE aw.PostTraumaticAgent|Game Stopped!
+29/11 01:31:03 FINE aw.TACAgent|Game log complete
+************************************************************
+* Game log complete
+************************************************************
+
+

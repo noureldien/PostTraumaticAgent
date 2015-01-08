@@ -1,0 +1,600 @@
+29/11 17:23:01 FINE aw.TACAgent|Log for game 36 started
+************************************************************
+* Log for game 36 started
+************************************************************
+
+
+29/11 17:23:01 FINE aw.TACAgent|Starting up game: 36
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Game 36 started!
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Printing Client Preferences
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 1 : [4, 5, 140, 48, 90, 175]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 2 : [3, 5, 66, 156, 35, 1]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 3 : [4, 5, 142, 142, 101, 91]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 4 : [1, 4, 131, 93, 57, 32]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 5 : [1, 3, 120, 75, 36, 11]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 6 : [1, 4, 67, 191, 93, 130]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 7 : [3, 4, 148, 160, 21, 50]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 8 : [3, 5, 147, 187, 198, 93]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Cheap Hotel 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Cheap Hotel 1 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Cheap Hotel 1 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Cheap Hotel 1 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Cheap Hotel 1 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Cheap Hotel 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Cheap Hotel 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Cheap Hotel 3 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Cheap Hotel 3 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Cheap Hotel 3 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Cheap Hotel 3 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Cheap Hotel 3 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Cheap Hotel 3 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Cheap Hotel 3 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Cheap Hotel 3 for client: 5
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Cheap Hotel 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Cheap Hotel 4 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Cheap Hotel 4 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Cheap Hotel 4 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Cheap Hotel 4 for client: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 1 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 1 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 1 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 1 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 1 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 1 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 1 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 1 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 2 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 2 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 2 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 2 for client: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 3 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 3 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 3 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 3 for client: 6
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 3 for client: 6
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 3 for client: 6
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 6
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 3 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 3 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 3 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                              owns: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|                       allocations: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 4 for client: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 4 for client: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 4 for client: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 4 for client: 0
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 4 for client: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 4 for client: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 4 for client: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 4 for client: 2
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 2 days for action: Good Hotel 4 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 3 days for action: Good Hotel 4 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Shorten stay by 4 days for action: Good Hotel 4 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 4 for client: 7
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:01 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 1 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@21104421
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: com.sun.deploy.util.StringUtils
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 9 more
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 2 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@4748cb9c
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 3 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@268e8f2d
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 4 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@4306f07d
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 1 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@2038b2f2
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 2 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@8ba1c16
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 3 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@72110825
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:23:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 4 has status: Intermediate Clear
+29/11 17:23:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@a8f98b8
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:23:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:11 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:23:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:21 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:23:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:31 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:23:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:41 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:23:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:23:51 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 1 has status: Intermediate Clear
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@3b8d65b1
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 2 has status: Intermediate Clear
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@742723cc
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 3 has status: Intermediate Clear
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@5de537ab
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Cheap Hotel 4 has status: Closed
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@4b5a0f7b
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 1 has status: Intermediate Clear
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@199fb064
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 2 has status: Intermediate Clear
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@77d7323a
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 3 has status: Intermediate Clear
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@62bdf9d0
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Auction Good Hotel 4 has status: Intermediate Clear
+29/11 17:24:01 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@2e12e9d6
+java.lang.NoClassDefFoundError: com/sun/deploy/util/StringUtils
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAllocationProcessor(PostTraumaticAgent.java:762)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:735)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:258)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1480)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:947)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:24:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:01 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:24:11 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:11 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:24:21 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:21 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:24:31 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:31 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:24:41 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:41 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 4, 4
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 4, 4
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 1
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 3, 3
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 3, 3
+29/11 17:24:51 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+29/11 17:24:51 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]

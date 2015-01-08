@@ -1,0 +1,1873 @@
+30/11 10:48:02 FINE aw.TACAgent|Log for game 45 started
+************************************************************
+* Log for game 45 started
+************************************************************
+
+
+30/11 10:48:02 FINE aw.TACAgent|Starting up game: 45
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Game 45 started!
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Printing Client Preferences
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 1 : [1, 5, 82, 142, 191, 21]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 2 : [4, 5, 86, 125, 175, 13]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 3 : [2, 3, 91, 9, 52, 49]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 4 : [4, 5, 92, 139, 104, 147]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 5 : [1, 2, 131, 105, 99, 18]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 6 : [2, 4, 97, 62, 157, 171]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 7 : [2, 4, 126, 42, 148, 79]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 8 : [2, 4, 96, 177, 82, 80]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 2, 3
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Bid Updated: id=35353 auction=12 state=valid
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Bid Updated: id=35354 auction=13 state=valid
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Bid Updated: id=35355 auction=14 state=valid
+30/11 10:48:03 FINE aw.PostTraumaticAgent|Bid Updated: id=35356 auction=15 state=valid
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 2, 3
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:13 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 2, 3
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:23 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 2, 3
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:33 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 2, 3
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:43 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:43 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:48:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35353 auction=12 state=valid
+30/11 10:48:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35354 auction=13 state=valid
+30/11 10:48:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35355 auction=14 state=valid
+30/11 10:48:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35356 auction=15 state=valid
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 2, 3
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:48:53 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:48:53 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 2 closed!
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|                     status string: Closed, status number: 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|                              owns: 0
+30/11 10:49:03 FINE aw.PostTraumaticAgent|                       allocations: 5
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 2 for client: 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 2 for client: 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 3 days for action: Good Hotel 2 for client: 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 2 for client: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 2 for client: 6
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% After shorten stay, arrival/departure days: 3, 4
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? false, HQW:-1
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? true
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? false, HQW:4
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:49:03 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Bid Updated: id=35481 auction=1 state=transacted
+30/11 10:49:13 FINE aw.PostTraumaticAgent|Bid Updated: id=35482 auction=5 state=transacted
+30/11 10:49:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:49:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:49:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:23 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:33 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:43 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:43 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:49:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:49:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:49:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:49:53 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:49:53 FINE aw.PostTraumaticAgent|Is this the last 10 seconds? false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 3 closed!
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+30/11 10:50:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@1fedc049
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 12 more
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:1
+30/11 10:50:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@608444dd
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:3
+30/11 10:50:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@5cf4e254
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:50:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:03 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:50:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@3dc2b248
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 10 more
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:50:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:50:13 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@41c27456
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:50:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:50:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:50:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:50:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:50:23 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@164f03df
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:50:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:50:33 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@da4258
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:50:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:43 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:50:43 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@51164d38
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:50:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:50:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:50:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:50:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:50:53 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:50:53 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@16155d02
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 1 closed!
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+30/11 10:51:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@5d7a76d
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:0
+30/11 10:51:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@55fb225
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:2
+30/11 10:51:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@134c4d0
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:51:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:03 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:51:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@307ff054
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:51:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:51:13 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@299653d5
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:51:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:51:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:51:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:51:23 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@630765aa
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:51:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:51:33 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@6e853f7f
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:51:44 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:44 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:51:44 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@3429610e
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:51:49 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:51:49 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:51:49 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:51:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:51:52 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@30d21bf7
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 4 closed!
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:2
+30/11 10:52:02 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@7878ddaf
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:0
+30/11 10:52:02 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@72f144b1
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:2
+30/11 10:52:02 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@7ca6732d
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:52:02 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@31e6b4d3
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:52:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:52:13 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@566838e7
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:52:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:52:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:52:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:52:23 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@4e56ac8d
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:52:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:52:33 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@50f0a0
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:52:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:43 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:52:43 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@271e0f00
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:52:49 FINE aw.PostTraumaticAgent|Bid Updated: id=35357 auction=12 state=valid
+30/11 10:52:49 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:52:49 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 4
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:52:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:52:53 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:52:53 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@751ca8cd
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 1 closed!
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 1
+30/11 10:53:03 FINE aw.PostTraumaticAgent|                     status string: Closed, status number: 3
+30/11 10:53:03 FINE aw.PostTraumaticAgent|                              owns: 0
+30/11 10:53:03 FINE aw.PostTraumaticAgent|                       allocations: 2
+30/11 10:53:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 1 for client: 1
+30/11 10:53:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:53:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:53:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 1
+30/11 10:53:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+30/11 10:53:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 4
+30/11 10:53:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 1 for client: 1
+30/11 10:53:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:53:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:53:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 1
+30/11 10:53:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% After shorten stay, arrival/departure days: 3, 5
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:0
+30/11 10:53:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@410f761f
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelShortenStay(PostTraumaticAgent.java:1067)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionReallocate(PostTraumaticAgent.java:960)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:900)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:0
+30/11 10:53:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@57139f2f
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:2
+30/11 10:53:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@b20479a
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:53:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:03 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:53:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@4fb92929
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 5, 0, 0]
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:53:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:53:13 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@5c920dd4
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:53:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:53:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [1, 0, 0, 0, 1, 0, 0, 0]
+30/11 10:53:23 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@1f9a0be5
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:53:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:53:33 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@3a277700
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:53:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:43 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:53:43 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@8f0a7e4
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:53:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:53:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:53:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:53:53 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:53:53 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@46f3743b
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 2 closed!
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:0
+30/11 10:54:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@5e103b00
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:2
+30/11 10:54:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@287c94d6
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:54:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:03 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:54:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@373154ce
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:54:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:54:13 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@159dff98
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:54:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:54:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:54:23 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@759b9414
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:54:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:54:33 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@ed84191
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:54:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:43 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:54:43 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@66cdfe17
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:54:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:54:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35359 auction=15 state=valid
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 4
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:54:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:54:53 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:54:53 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@46f7c104
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:0
+30/11 10:55:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@7feaad04
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 4 closed!
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 4
+30/11 10:55:03 FINE aw.PostTraumaticAgent|                     status string: Closed, status number: 3
+30/11 10:55:03 FINE aw.PostTraumaticAgent|                              owns: 0
+30/11 10:55:03 FINE aw.PostTraumaticAgent|                       allocations: 3
+30/11 10:55:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 4 for client: 1
+30/11 10:55:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:55:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+30/11 10:55:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 4
+30/11 10:55:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% After shorten stay, arrival/departure days: 3, 4
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:0
+30/11 10:55:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@739eefab
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:38)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBiddingMargin(PostTraumaticAgent.java:1179)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdateBid(PostTraumaticAgent.java:1134)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:920)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelShortenStay(PostTraumaticAgent.java:1067)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionReallocate(PostTraumaticAgent.java:960)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:900)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:809)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:256)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 3
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:55:03 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:03 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:55:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@59ac4297
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 0]
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 3
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:55:13 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:13 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:55:13 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@19970e35
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:18 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 0, 1, 1, 0, 0]
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 2]
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 3
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:55:23 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:23 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 2, 0, 0, 0, 2]
+30/11 10:55:23 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@735aea3c
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 2, 1, 1, 0, 2]
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 2]
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 3
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:55:33 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:33 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:55:33 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@4d3e64ad
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 2, 1, 1, 0, 2]
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 2]
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 3
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:55:43 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:43 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:55:43 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@6cc7570a
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:55:48 FINE aw.PostTraumaticAgent|Bid Updated: id=35358 auction=14 state=valid
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Flight Owns: [1, 1, 0, 2, 1, 1, 0, 2]
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 2, 5, 0, 2]
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 3, 3
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 4, 4
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 4, 4
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 1, 1
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 3, 3
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 2, 3
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 2, 3
+30/11 10:55:53 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+30/11 10:55:53 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+30/11 10:55:53 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@7773c109
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:56:03 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 3 closed!
+30/11 10:56:03 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|                     status string: Closed, status number: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|                              owns: 0
+30/11 10:56:03 FINE aw.PostTraumaticAgent|                       allocations: 4
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 3 for client: 1
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 3 for client: 1
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 3 days for action: Good Hotel 3 for client: 1
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 0
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 3 for client: 6
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 3 for client: 6
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 3 days for action: Good Hotel 3 for client: 6
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 5
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 3 for client: 7
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 3 for client: 7
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 3 days for action: Good Hotel 3 for client: 7
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 6
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 3 for client: 8
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 3 for client: 8
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Try shorten stay by 3 days for action: Good Hotel 3 for client: 8
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+30/11 10:56:03 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ First Hotel Day: 2
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+30/11 10:56:03 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 7
+30/11 10:56:03 FINE aw.PostTraumaticAgent|Clients with un-feasible travel package yet: [0, 2, 4, 6]
+30/11 10:56:03 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@2b41fe31
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+30/11 10:56:13 FINE aw.PostTraumaticAgent|Clients with un-feasible travel package yet: [0, 2, 4, 6]
+30/11 10:56:13 SEVERE aw.TACMessage|receiver could not handle message: se.sics.tac.aw.TACMessage@3d06f606
+java.lang.NoClassDefFoundError: org/apache/commons/math3/stat/regression/OLSMultipleLinearRegression
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:51)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:687)
+	at se.sics.tac.aw.PostTraumaticAgent.flightQuoteUpdated(PostTraumaticAgent.java:410)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:282)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)

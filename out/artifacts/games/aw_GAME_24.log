@@ -1,0 +1,104 @@
+27/11 12:16:01 FINE aw.TACAgent|Log for game 24 started
+************************************************************
+* Log for game 24 started
+************************************************************
+
+
+27/11 12:16:01 FINE aw.TACAgent|Starting up game: 24
+27/11 12:16:01 FINE aw.DummyAgent|Game 24 started!
+27/11 12:16:01 FINE aw.DummyAgent|This is flight auctions update, time: 1066
+27/11 12:16:01 FINE aw.DummyAgent|Bid Updated: id=22424 auction=12 state=valid
+27/11 12:16:01 FINE aw.DummyAgent|Bid Updated: id=22425 auction=13 state=valid
+27/11 12:16:01 FINE aw.DummyAgent|Bid Updated: id=22426 auction=14 state=valid
+27/11 12:16:01 FINE aw.DummyAgent|Bid Updated: id=22427 auction=15 state=valid
+27/11 12:16:11 FINE aw.DummyAgent|This is flight auctions update, time: 11069
+27/11 12:16:21 FINE aw.DummyAgent|This is flight auctions update, time: 21074
+27/11 12:16:31 FINE aw.DummyAgent|This is flight auctions update, time: 31087
+27/11 12:16:41 FINE aw.DummyAgent|This is flight auctions update, time: 41083
+27/11 12:16:46 FINE aw.DummyAgent|Bid Updated: id=22424 auction=12 state=valid
+27/11 12:16:46 FINE aw.DummyAgent|Bid Updated: id=22425 auction=13 state=valid
+27/11 12:16:46 FINE aw.DummyAgent|Bid Updated: id=22426 auction=14 state=valid
+27/11 12:16:46 FINE aw.DummyAgent|Bid Updated: id=22427 auction=15 state=valid
+27/11 12:16:51 FINE aw.DummyAgent|This is flight auctions update, time: 51091
+27/11 12:17:01 FINE aw.DummyAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:1
+27/11 12:17:01 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@7f95ee6f
+org.apache.commons.math3.exception.MathIllegalArgumentException: not enough data (1 rows) for this many predictors (2 predictors)
+	at org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression.validateSampleData(AbstractMultipleLinearRegression.java:236)
+	at org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression.newSampleData(OLSMultipleLinearRegression.java:91)
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:42)
+	at se.sics.tac.aw.DummyAgent.hotelBiddingMargin(DummyAgent.java:764)
+	at se.sics.tac.aw.DummyAgent.hotelUpdateBid(DummyAgent.java:727)
+	at se.sics.tac.aw.DummyAgent.hotelAuctionProcessor(DummyAgent.java:520)
+	at se.sics.tac.aw.DummyAgent.hotelQuoteUpdated(DummyAgent.java:460)
+	at se.sics.tac.aw.DummyAgent.quoteUpdated(DummyAgent.java:214)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1434)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:901)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+27/11 12:17:01 FINE aw.DummyAgent|Quote for auction: Good Hotel 2 has HQW ? true, HQW:4
+27/11 12:17:01 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@183af005
+org.apache.commons.math3.exception.MathIllegalArgumentException: not enough data (1 rows) for this many predictors (2 predictors)
+	at org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression.validateSampleData(AbstractMultipleLinearRegression.java:236)
+	at org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression.newSampleData(OLSMultipleLinearRegression.java:91)
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:42)
+	at se.sics.tac.aw.DummyAgent.hotelBiddingMargin(DummyAgent.java:764)
+	at se.sics.tac.aw.DummyAgent.hotelUpdateBid(DummyAgent.java:727)
+	at se.sics.tac.aw.DummyAgent.hotelAuctionProcessor(DummyAgent.java:520)
+	at se.sics.tac.aw.DummyAgent.hotelQuoteUpdated(DummyAgent.java:460)
+	at se.sics.tac.aw.DummyAgent.quoteUpdated(DummyAgent.java:214)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1434)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:901)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+27/11 12:17:01 FINE aw.DummyAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:5
+27/11 12:17:01 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@191a6635
+org.apache.commons.math3.exception.MathIllegalArgumentException: not enough data (1 rows) for this many predictors (2 predictors)
+	at org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression.validateSampleData(AbstractMultipleLinearRegression.java:236)
+	at org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression.newSampleData(OLSMultipleLinearRegression.java:91)
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:42)
+	at se.sics.tac.aw.DummyAgent.hotelBiddingMargin(DummyAgent.java:764)
+	at se.sics.tac.aw.DummyAgent.hotelUpdateBid(DummyAgent.java:727)
+	at se.sics.tac.aw.DummyAgent.hotelAuctionProcessor(DummyAgent.java:520)
+	at se.sics.tac.aw.DummyAgent.hotelQuoteUpdated(DummyAgent.java:460)
+	at se.sics.tac.aw.DummyAgent.quoteUpdated(DummyAgent.java:214)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1434)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:901)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+27/11 12:17:01 FINE aw.DummyAgent|Quote for auction: Good Hotel 4 has HQW ? true, HQW:4
+27/11 12:17:01 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@51db5dd7
+org.apache.commons.math3.exception.MathIllegalArgumentException: not enough data (1 rows) for this many predictors (2 predictors)
+	at org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression.validateSampleData(AbstractMultipleLinearRegression.java:236)
+	at org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression.newSampleData(OLSMultipleLinearRegression.java:91)
+	at se.sics.tac.aw.HotelPricePredictor.<init>(HotelPricePredictor.java:42)
+	at se.sics.tac.aw.DummyAgent.hotelBiddingMargin(DummyAgent.java:764)
+	at se.sics.tac.aw.DummyAgent.hotelUpdateBid(DummyAgent.java:727)
+	at se.sics.tac.aw.DummyAgent.hotelAuctionProcessor(DummyAgent.java:520)
+	at se.sics.tac.aw.DummyAgent.hotelQuoteUpdated(DummyAgent.java:460)
+	at se.sics.tac.aw.DummyAgent.quoteUpdated(DummyAgent.java:214)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1434)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:901)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+27/11 12:17:01 FINE aw.DummyAgent|Auction 11 closed!
+27/11 12:17:01 FINE aw.DummyAgent|This is flight auctions update, time: 61241
+27/11 12:17:11 FINE aw.DummyAgent|This is flight auctions update, time: 71102
+27/11 12:17:16 FINE aw.DummyAgent|Bid Updated: id=22424 auction=12 state=valid
+27/11 12:17:16 FINE aw.DummyAgent|Bid Updated: id=22425 auction=13 state=valid
+27/11 12:17:16 FINE aw.DummyAgent|Bid Updated: id=22426 auction=14 state=valid
+27/11 12:17:16 FINE aw.DummyAgent|Bid Updated: id=22427 auction=15 state=valid
+27/11 12:17:21 FINE aw.DummyAgent|This is flight auctions update, time: 81111
+27/11 12:17:31 FINE aw.DummyAgent|This is flight auctions update, time: 91123
+27/11 12:17:41 FINE aw.DummyAgent|This is flight auctions update, time: 101115
+27/11 12:17:46 FINE aw.DummyAgent|Bid Updated: id=22424 auction=12 state=valid
+27/11 12:17:46 FINE aw.DummyAgent|Bid Updated: id=22425 auction=13 state=valid
+27/11 12:17:46 FINE aw.DummyAgent|Bid Updated: id=22426 auction=14 state=valid
+27/11 12:17:46 FINE aw.DummyAgent|Bid Updated: id=22427 auction=15 state=valid

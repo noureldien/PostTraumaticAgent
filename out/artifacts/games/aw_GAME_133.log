@@ -1,0 +1,167 @@
+06/12 23:37:01 FINE aw.TACAgent|Log for game 133 started
+************************************************************
+* Log for game 133 started
+************************************************************
+
+
+06/12 23:37:01 FINE aw.TACAgent|Starting up game: 133
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Game 133 started!
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Auction Number: 28
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Printing Client Preferences
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 1 : [2, 3, 132, 104, 47, 35]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 2 : [3, 5, 113, 15, 135, 181]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 3 : [3, 4, 52, 2, 72, 102]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 4 : [4, 5, 145, 13, 15, 131]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 5 : [2, 4, 55, 176, 84, 176]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 6 : [2, 3, 141, 15, 107, 185]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 7 : [2, 4, 77, 199, 138, 172]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Client 8 : [2, 3, 62, 188, 175, 8]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|              Finish Printing Client Preferences
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Entertainment Auctions Old Own Before De-Allocations
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 1 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 2 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 3 own: 2
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 4 own: 4
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 1 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 2 own: 4
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 3 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 4 own: 2
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 1 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 2 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 3 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 4 own: 0
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ De-Allocating Un-needed entertainment owns
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Un-wanted: [0, 0, 0, 4, 0, 4, 0, 1, 0, 0, 0, 0]
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Clients' Preferences calculated!
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 1 has ent. auctions: 
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 2
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 2 has ent. auctions: 
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Amusement 4
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 3
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 3 has ent. auctions: 
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 3
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 4 has ent. auctions: 
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 4
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 5 has ent. auctions: 
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 3
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 2
+06/12 23:37:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 6 has ent. auctions: 
+06/12 23:37:02 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 2
+06/12 23:37:02 FINE aw.PostTraumaticAgent|+++++++++++++ Client 7 has ent. auctions: 
+06/12 23:37:02 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 3
+06/12 23:37:02 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 2
+06/12 23:37:02 FINE aw.PostTraumaticAgent|+++++++++++++ Client 8 has ent. auctions: 
+06/12 23:37:02 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 2
+06/12 23:37:02 FINE aw.PostTraumaticAgent|------------- Flight Demand Estimations: [37.32721, 14.328358, 6.760046, 5.5843854, 6.571762, 3.7339559, 33.381565, 20.312717]
+06/12 23:37:02 FINE aw.PostTraumaticAgent|------------- Hotel Demand Estimations: [37.32721, 45.083805, 48.109898, 20.312717]
+06/12 23:37:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:11 FINE aw.PostTraumaticAgent|+++++++++++++ Entertainment Allocations after Processing
+06/12 23:37:11 FINE aw.PostTraumaticAgent|+++++++++++++ New Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:11 FINE aw.PostTraumaticAgent|+++++++++++++ Bid Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations4
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations4
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 113171, time closed: 0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations1
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         Status: valid
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         allocation: -4
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         bid string: ((-4 200.0))
+06/12 23:37:11 FINE aw.PostTraumaticAgent|           bid hash: ((-4 200.0000))
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 SEVERE aw.PostTraumaticAgent|Something bad happened when trying getting the quantity from string: java.lang.NumberFormatException: For input string: ""
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 113172, time closed: 0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         Status: valid
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         allocation: -4
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         bid string: ((-4 200.0))
+06/12 23:37:11 FINE aw.PostTraumaticAgent|           bid hash: ((-4 200.0000))
+06/12 23:37:11 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+06/12 23:37:11 SEVERE aw.PostTraumaticAgent|Something bad happened when trying getting the quantity from string: java.lang.NumberFormatException: For input string: ""
+06/12 23:37:11 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 113173, time closed: 0
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         Status: valid
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         allocation: -1
+06/12 23:37:11 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+06/12 23:37:11 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+06/12 23:37:11 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+06/12 23:37:11 SEVERE aw.PostTraumaticAgent|Something bad happened when trying getting the quantity from string: java.lang.NumberFormatException: For input string: ""
+06/12 23:37:13 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:13 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:13 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:16 FINE aw.PostTraumaticAgent|+++++++++++++ Entertainment Allocations after Processing
+06/12 23:37:16 FINE aw.PostTraumaticAgent|+++++++++++++ New Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:16 FINE aw.PostTraumaticAgent|+++++++++++++ Bid Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations0
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentDeAllocations0
+06/12 23:37:16 FINE aw.PostTraumaticAgent|entertainmentBidsDeAllocations4
+06/12 23:37:23 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:23 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:23 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:33 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:33 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:33 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:43 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:43 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:43 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:47 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 113171, time closed: 0
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         Status: valid
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         allocation: -4
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         bid string: ((-4 200.0))
+06/12 23:37:47 FINE aw.PostTraumaticAgent|           bid hash: ((-4 200.0000))
+06/12 23:37:47 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+06/12 23:37:47 SEVERE aw.PostTraumaticAgent|Something bad happened when trying getting the quantity from string: java.lang.NumberFormatException: For input string: ""
+06/12 23:37:47 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 113172, time closed: 0
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         Status: valid
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         allocation: -4
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         bid string: ((-4 200.0))
+06/12 23:37:47 FINE aw.PostTraumaticAgent|           bid hash: ((-4 200.0000))
+06/12 23:37:47 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+06/12 23:37:47 SEVERE aw.PostTraumaticAgent|Something bad happened when trying getting the quantity from string: java.lang.NumberFormatException: For input string: ""
+06/12 23:37:47 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 113173, time closed: 0
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         Status: valid
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         allocation: -1
+06/12 23:37:47 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+06/12 23:37:47 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+06/12 23:37:47 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+06/12 23:37:47 SEVERE aw.PostTraumaticAgent|Something bad happened when trying getting the quantity from string: java.lang.NumberFormatException: For input string: ""
+06/12 23:37:53 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:53 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:53 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:37:59 FINE aw.PostTraumaticAgent|------------- Left seconds till    game close (sec): 481
+06/12 23:37:59 FINE aw.PostTraumaticAgent|-------------                   auction close (sec): 1.0
+06/12 23:37:59 FINE aw.PostTraumaticAgent|------------- Fire you final weapons, your final auction bid !
+06/12 23:38:03 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:38:03 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:38:03 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:38:03 FINE aw.PostTraumaticAgent|------------- Hotel auction Cheap Hotel 3 closed!
+06/12 23:38:03 FINE aw.PostTraumaticAgent|------------- Old allocation: 2
+06/12 23:38:03 FINE aw.PostTraumaticAgent|------------- New allocation: 0
+06/12 23:38:03 FINE aw.PostTraumaticAgent|------------- Own: 2
+06/12 23:38:13 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+06/12 23:38:13 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 2, 0, 0, 0, 0, 0]
+06/12 23:38:13 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 1, 0, 0, 0, 1, 0]

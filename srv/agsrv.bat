@@ -1,0 +1,1 @@
+java -jar PostTraumaticAgent.jar -agent PostTraumaticAgent -password nour -host tac.ecs.soton.ac.uk -port 6500 -connection se.sics.tac.aw.TACReader -agentimpl se.sics.tac.aw.PostTraumaticAgent -exitAfterGames 1 -consoleLogLevel 2 -fileLogLevel 2 -logPrefix aw

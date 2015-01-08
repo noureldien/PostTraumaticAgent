@@ -1,0 +1,575 @@
+07/12 00:19:01 FINE aw.TACAgent|Log for game 138 started
+************************************************************
+* Log for game 138 started
+************************************************************
+
+
+07/12 00:19:01 FINE aw.TACAgent|Starting up game: 138
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Game 138 started!
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Auction Number: 28
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Printing Client Preferences
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 1 : [3, 5, 78, 164, 99, 10]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 2 : [2, 3, 55, 194, 49, 101]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 3 : [2, 4, 98, 54, 169, 68]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 4 : [2, 3, 70, 184, 67, 92]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 5 : [1, 5, 119, 190, 134, 164]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 6 : [1, 5, 83, 64, 183, 4]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 7 : [2, 4, 138, 174, 59, 177]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Client 8 : [1, 2, 75, 30, 37, 124]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|              Finish Printing Client Preferences
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Entertainment Auctions Old Own Before De-Allocations
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 1 own: 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 2 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 3 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Alligator 4 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 1 own: 4
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 2 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 3 own: 4
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Amusement 4 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 1 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 2 own: 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 3 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Auction: Museum 4 own: 0
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ De-Allocating Un-needed entertainment owns
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Un-wanted: [1, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 0]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Clients' Preferences calculated!
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 1 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Amusement 3
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 4
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 2 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 3 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Amusement 3
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 4 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 5 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 1
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Amusement 3
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 6 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Amusement 1
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 3
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 7 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 2
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Alligator 3
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++ Client 8 has ent. auctions: 
+07/12 00:19:01 FINE aw.PostTraumaticAgent|+++++++++++++                             Museum 1
+07/12 00:19:01 FINE aw.PostTraumaticAgent|------------- Flight Demand Estimations: [4.2537766, 36.83384, 10.247734, 12.664652, 10.42493, 15.410766, 33.450424, 4.713881]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|------------- Hotel Demand Estimations: [4.2537766, 30.662685, 25.499653, 4.713881]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:01 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:11 FINE aw.PostTraumaticAgent|+++++++++++++ Entertainment Allocations after Processing
+07/12 00:19:11 FINE aw.PostTraumaticAgent|+++++++++++++ New Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:11 FINE aw.PostTraumaticAgent|+++++++++++++ Bid Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:11 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:19:11 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:19:11 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:19:11 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:19:11 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:19:11 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:19:11 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:19:11 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:19:11 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:19:11 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:19:11 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:19:11 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:19:11 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:19:11 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:19:11 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:19:11 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:19:11 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:11 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:11 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:16 FINE aw.PostTraumaticAgent|+++++++++++++ Entertainment Allocations after Processing
+07/12 00:19:16 FINE aw.PostTraumaticAgent|+++++++++++++ New Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:16 FINE aw.PostTraumaticAgent|+++++++++++++ Bid Allocations: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:21 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:21 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:21 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:31 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:31 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:31 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:41 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:41 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:41 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:19:46 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:19:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:19:46 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:19:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:19:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:19:46 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:19:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:19:46 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:19:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:19:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:19:46 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:19:46 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:19:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:19:46 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:19:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:19:51 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:51 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:51 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:19:57 FINE aw.PostTraumaticAgent|------------- Left seconds till    game close (sec): 482
+07/12 00:19:57 FINE aw.PostTraumaticAgent|-------------                   auction close (sec): 2.0
+07/12 00:19:57 FINE aw.PostTraumaticAgent|------------- Fire you final weapons, your final auction bid !
+07/12 00:20:01 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:01 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:01 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:01 FINE aw.PostTraumaticAgent|------------- Hotel auction Good Hotel 2 closed!
+07/12 00:20:01 FINE aw.PostTraumaticAgent|------------- Old allocation: 4
+07/12 00:20:01 FINE aw.PostTraumaticAgent|------------- New allocation: 0
+07/12 00:20:01 FINE aw.PostTraumaticAgent|------------- Own: 4
+07/12 00:20:11 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:11 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:20:11 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:20:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:20:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:20:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:20:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:20:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:20:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:20:16 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:20:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:20:16 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:20:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:20:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:20:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:20:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:20:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:20:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:20:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:20:21 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:20:21 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:20:21 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:31 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:20:31 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:20:31 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:41 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:20:50 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:20:50 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:50 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:20:50 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:20:50 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:20:50 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:20:50 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:20:50 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:20:50 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:20:50 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:20:50 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:20:50 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:20:50 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:20:50 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:20:50 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:20:50 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:20:50 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:20:50 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:20:51 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:20:51 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:20:51 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:20:57 FINE aw.PostTraumaticAgent|------------- Left seconds till    game close (sec): 422
+07/12 00:20:57 FINE aw.PostTraumaticAgent|-------------                   auction close (sec): 2.0
+07/12 00:20:57 FINE aw.PostTraumaticAgent|------------- Fire you final weapons, your final auction bid !
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:9
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 121207
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 328
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 327.0
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Offset: 120
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Margin: 121
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:12
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 121258
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 112
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 111.0
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:14
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 121261
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 146
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 111.0
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Margin: 135
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:15
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 121264
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 112
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 111.0
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:21:01 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:21:01 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:21:01 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Hotel auction Cheap Hotel 4 closed!
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Old allocation: 0
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- New allocation: 0
+07/12 00:21:01 FINE aw.PostTraumaticAgent|------------- Own: 0
+07/12 00:21:11 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:21:13 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:21:13 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:21:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:21:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:21:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:21:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:21:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:21:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:21:16 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:21:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:21:16 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:21:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:21:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:21:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:21:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:21:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:21:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:21:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:21:21 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:21:21 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:21:21 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:21:31 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:21:31 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:21:31 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:21:41 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:21:41 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:21:41 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:21:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:21:46 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:21:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:21:46 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:21:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:21:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:21:46 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:21:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:21:46 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:21:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:21:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:21:46 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:21:46 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:21:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:21:46 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:21:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:21:51 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:21:51 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:21:51 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Left seconds till    game close (sec): 362
+07/12 00:21:57 FINE aw.PostTraumaticAgent|-------------                   auction close (sec): 2.0
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Fire you final weapons, your final auction bid !
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:9
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 177127
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 303
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current Price is: 302.0
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Offset: 120
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Margin: 121
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:12
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 177133
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 102
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current Price is: 101.0
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:14
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 177140
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 247
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current Price is: 246.0
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:15
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 2
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 177147
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 102
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Current Price is: 101.0
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 3
+07/12 00:21:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 180000
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:9
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 3
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 181240
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 303
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 302.0
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Offset: 120
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Margin: 121
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 4
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 240000
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:12
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 3
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 181250
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 102
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 101.0
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 4
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 240000
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:14
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 3
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 181260
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 213
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 212.0
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 4
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 240000
+07/12 00:22:01 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:22:01 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 0]
+07/12 00:22:01 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Hotel auction Good Hotel 4 closed!
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Old allocation: 3
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- New allocation: 0
+07/12 00:22:01 FINE aw.PostTraumaticAgent|------------- Own: 3
+07/12 00:22:11 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+07/12 00:22:11 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 3]
+07/12 00:22:11 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 3]
+07/12 00:22:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:22:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:22:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:22:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:22:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:22:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:22:16 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:22:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:22:16 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:22:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:22:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:22:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:22:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:22:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:22:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:22:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:22:21 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 3]
+07/12 00:22:21 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 3]
+07/12 00:22:21 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:22:31 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 3]
+07/12 00:22:31 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 3]
+07/12 00:22:31 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:22:41 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 3]
+07/12 00:22:41 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 3]
+07/12 00:22:41 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:22:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:22:46 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:22:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:22:46 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:22:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:22:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:22:46 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:22:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:22:46 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:22:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:22:46 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:22:46 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:22:46 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:22:46 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:22:46 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:22:46 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:22:51 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 3]
+07/12 00:22:51 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 3]
+07/12 00:22:51 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Left seconds till    game close (sec): 302
+07/12 00:22:57 FINE aw.PostTraumaticAgent|-------------                   auction close (sec): 2.0
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Fire you final weapons, your final auction bid !
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:9
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 3
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 237152
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 303
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current Price is: 302.0
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Offset: 120
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Margin: 121
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 4
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 240000
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:12
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 3
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 237156
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 102
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current Price is: 101.0
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 4
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 240000
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:14
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 3
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 237162
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 223
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Current Price is: 222.0
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 4
+07/12 00:22:57 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 240000
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:9
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 4
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 241273
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 303
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 302.0
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Offset: 120
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Margin: 121
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 5
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 300000
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- This is hotel price predictor for hotel auction:14
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Current time in minutes is: 4
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Current time in milli is: 241280
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Predicted Price is: 223
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Current Price is: 222.0
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Bid mode: true
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Offset: 100
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Margin: 101
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (min  ): 5
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Predicted for time (milli): 300000
+07/12 00:23:01 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 3]
+07/12 00:23:01 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 4, 0, 3]
+07/12 00:23:01 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Hotel auction Good Hotel 1 closed!
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Old allocation: 3
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- New allocation: 0
+07/12 00:23:01 FINE aw.PostTraumaticAgent|------------- Own: 3
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 2, 0, 0, 0, 0, 0, 3]
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 3, 4, 0, 3]
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* This client has not complete stay but he has first and last hotel days reserved: 5
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* First/Last Hotel Days: 1, 4
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* First-Day Flight Auction: Inflight 1
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* Last-Day Flight Auction: Outflight 5
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* Should buy for first and last day? false, true
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* So, we're consider first/last day? false, true
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* This client has not complete stay but he has first and last hotel days reserved: 6
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* First/Last Hotel Days: 1, 4
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* First-Day Flight Auction: Inflight 1
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* Last-Day Flight Auction: Outflight 5
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* Should buy for first and last day? false, true
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* So, we're consider first/last day? false, true
+07/12 00:23:11 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [1, 0, 0, 0, 1, 0, 0, 0]
+07/12 00:23:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114170, time closed: 0
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:23:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:23:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:23:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:23:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:23:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114171, time closed: 0
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         allocation: -3
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         bid string: ((-3 200.0))
+07/12 00:23:16 FINE aw.PostTraumaticAgent|           bid hash: ((-3 200.0000))
+07/12 00:23:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:23:16 FINE aw.PostTraumaticAgent|quantityString: -3
+07/12 00:23:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:23:16 FINE aw.PostTraumaticAgent|// // // Bid Updated, id: 114172, time closed: 0
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         Status: valid
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         allocation: -1
+07/12 00:23:16 FINE aw.PostTraumaticAgent|         bid string: ((-1 200.0))
+07/12 00:23:16 FINE aw.PostTraumaticAgent|           bid hash: ((-1 200.0000))
+07/12 00:23:16 FINE aw.PostTraumaticAgent|Bid has -ve qty and is valid, so it must be selling
+07/12 00:23:16 FINE aw.PostTraumaticAgent|quantityString: -1
+07/12 00:23:16 FINE aw.PostTraumaticAgent|soldQuantity: 0
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* Flight Owns: [1, 2, 0, 0, 1, 0, 0, 3]
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 3, 4, 0, 3]
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* This client has not complete stay but he has first and last hotel days reserved: 5
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* First/Last Hotel Days: 1, 4
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* First-Day Flight Auction: Inflight 1
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* Last-Day Flight Auction: Outflight 5
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* Should buy for first and last day? false, true
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* So, we're consider first/last day? false, true
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* This client has not complete stay but he has first and last hotel days reserved: 6
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* First/Last Hotel Days: 1, 4
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* First-Day Flight Auction: Inflight 1
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* Last-Day Flight Auction: Outflight 5
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* Should buy for first and last day? false, true
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* So, we're consider first/last day? false, true
+07/12 00:23:21 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]

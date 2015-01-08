@@ -1,0 +1,58 @@
+29/11 03:06:01 FINE aw.TACAgent|Log for game 28 started
+************************************************************
+* Log for game 28 started
+************************************************************
+
+
+29/11 03:06:01 FINE aw.TACAgent|Starting up game: 28
+29/11 03:06:01 FINE aw.PostTraumaticAgent|Game 28 started!
+29/11 03:06:01 FINE aw.PostTraumaticAgent|Just checking some facts:
+29/11 03:06:01 FINE aw.PostTraumaticAgent|Game Time Left: 539905
+29/11 03:06:01 FINE aw.PostTraumaticAgent|Game Time Now : 97
+29/11 03:06:01 FINE aw.PostTraumaticAgent|Game Length   : 540000
+29/11 03:06:02 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@672bf215
+org.apache.commons.math3.exception.NoDataException: no data
+	at org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression.validateSampleData(AbstractMultipleLinearRegression.java:233)
+	at org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression.newSampleData(OLSMultipleLinearRegression.java:91)
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:55)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:615)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:299)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1442)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:901)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 03:06:02 FINE aw.PostTraumaticAgent|Bid Updated: id=24240 auction=8 state=valid
+29/11 03:06:02 FINE aw.PostTraumaticAgent|Bid Updated: id=24241 auction=9 state=valid
+29/11 03:06:02 FINE aw.PostTraumaticAgent|Bid Updated: id=24242 auction=10 state=valid
+29/11 03:06:02 FINE aw.PostTraumaticAgent|Bid Updated: id=24243 auction=12 state=valid
+29/11 03:06:02 FINE aw.PostTraumaticAgent|Bid Updated: id=24244 auction=13 state=valid
+29/11 03:06:02 FINE aw.PostTraumaticAgent|Bid Updated: id=24245 auction=14 state=valid
+29/11 03:06:02 FINE aw.PostTraumaticAgent|Bid Updated: id=24246 auction=15 state=valid
+29/11 03:06:12 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@672bf215
+org.apache.commons.math3.exception.NoDataException: no data
+	at org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression.validateSampleData(AbstractMultipleLinearRegression.java:233)
+	at org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression.newSampleData(OLSMultipleLinearRegression.java:91)
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:55)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:615)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:299)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1442)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:901)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+29/11 03:06:22 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@672bf215
+org.apache.commons.math3.exception.NoDataException: no data
+	at org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression.validateSampleData(AbstractMultipleLinearRegression.java:233)
+	at org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression.newSampleData(OLSMultipleLinearRegression.java:91)
+	at se.sics.tac.aw.FlightPricePredictor.<init>(FlightPricePredictor.java:55)
+	at se.sics.tac.aw.PostTraumaticAgent.flightBidsProcessor(PostTraumaticAgent.java:615)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:299)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1442)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:901)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)

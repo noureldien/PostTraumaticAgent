@@ -1,0 +1,1528 @@
+05/12 21:14:01 FINE aw.TACAgent|Log for game 84 started
+************************************************************
+* Log for game 84 started
+************************************************************
+
+
+05/12 21:14:01 FINE aw.TACAgent|Starting up game: 84
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Game 84 started!
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Printing Client Preferences
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 1 : [3, 5, 85, 165, 78, 169]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 2 : [1, 3, 88, 113, 98, 102]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 3 : [1, 2, 147, 87, 130, 31]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 4 : [1, 5, 73, 191, 77, 89]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 5 : [1, 3, 120, 45, 5, 85]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 6 : [1, 2, 83, 109, 30, 194]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 7 : [3, 5, 127, 68, 10, 62]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Client 8 : [1, 2, 54, 103, 124, 51]
+05/12 21:14:01 FINE aw.PostTraumaticAgent|              Finish Printing Client Preferences
+05/12 21:14:01 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@6c484aea
+java.lang.IndexOutOfBoundsException: Index: 4, Size: 1
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at se.sics.tac.aw.PostTraumaticAgent.initializeEstimatedDemand(PostTraumaticAgent.java:499)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:344)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:14:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71191 auction=8 state=valid
+05/12 21:14:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71192 auction=12 state=valid
+05/12 21:14:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71193 auction=13 state=valid
+05/12 21:14:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71194 auction=14 state=valid
+05/12 21:14:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:14:06 FINE aw.PostTraumaticAgent|+++++++++++++ New Entertainment Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:14:11 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@6c484aea
+java.lang.IndexOutOfBoundsException: Index: 4, Size: 2
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at se.sics.tac.aw.PostTraumaticAgent.initializeEstimatedDemand(PostTraumaticAgent.java:499)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:344)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:14:21 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@6c484aea
+java.lang.IndexOutOfBoundsException: Index: 4, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at se.sics.tac.aw.PostTraumaticAgent.initializeEstimatedDemand(PostTraumaticAgent.java:499)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:344)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:14:31 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@6c484aea
+java.lang.IndexOutOfBoundsException: Index: 4, Size: 4
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at se.sics.tac.aw.PostTraumaticAgent.initializeEstimatedDemand(PostTraumaticAgent.java:499)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:344)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:14:41 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@6c484aea
+java.lang.IndexOutOfBoundsException: Index: 5, Size: 5
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at se.sics.tac.aw.PostTraumaticAgent.initializeEstimatedDemand(PostTraumaticAgent.java:499)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:344)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:14:46 FINE aw.PostTraumaticAgent|              Bid Updated: id=71191 auction=8 state=valid
+05/12 21:14:46 FINE aw.PostTraumaticAgent|              Bid Updated: id=71192 auction=12 state=valid
+05/12 21:14:46 FINE aw.PostTraumaticAgent|              Bid Updated: id=71193 auction=13 state=valid
+05/12 21:14:46 FINE aw.PostTraumaticAgent|              Bid Updated: id=71194 auction=14 state=valid
+05/12 21:14:46 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:14:51 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@6c484aea
+java.lang.IndexOutOfBoundsException: Index: 6, Size: 6
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at se.sics.tac.aw.PostTraumaticAgent.initializeEstimatedDemand(PostTraumaticAgent.java:499)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:344)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:14:57 FINE aw.PostTraumaticAgent|============= Fire you final weapons, yeeeeha, your final auction bid !
+05/12 21:15:02 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@3404d7bd
+java.lang.NullPointerException
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBidMargin(PostTraumaticAgent.java:1577)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdatedBid(PostTraumaticAgent.java:1550)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:1321)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:1156)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:315)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:15:02 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@542745b9
+java.lang.NullPointerException
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBidMargin(PostTraumaticAgent.java:1577)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdatedBid(PostTraumaticAgent.java:1550)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:1321)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:1156)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:315)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:15:02 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@f904cb3
+java.lang.NullPointerException
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBidMargin(PostTraumaticAgent.java:1577)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdatedBid(PostTraumaticAgent.java:1550)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:1321)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:1156)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:315)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:15:02 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@701c6581
+java.lang.NullPointerException
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBidMargin(PostTraumaticAgent.java:1577)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdatedBid(PostTraumaticAgent.java:1550)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:1321)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:1156)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:315)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:15:02 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@3e50d26f
+java.lang.NullPointerException
+	at se.sics.tac.aw.PostTraumaticAgent.hotelBidMargin(PostTraumaticAgent.java:1577)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelUpdatedBid(PostTraumaticAgent.java:1550)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelAuctionProcessor(PostTraumaticAgent.java:1321)
+	at se.sics.tac.aw.PostTraumaticAgent.hotelQuoteUpdated(PostTraumaticAgent.java:1156)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:315)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1471)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:15:02 SEVERE aw.TACAgent|agent could not handle quoteUpdated for se.sics.tac.aw.Quote@6c484aea
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at se.sics.tac.aw.PostTraumaticAgent.initializeEstimatedDemand(PostTraumaticAgent.java:499)
+	at se.sics.tac.aw.PostTraumaticAgent.quoteUpdated(PostTraumaticAgent.java:344)
+	at se.sics.tac.aw.TACAgent.handleQuote(TACAgent.java:1479)
+	at se.sics.tac.aw.TACAgent.messageReceived(TACAgent.java:938)
+	at se.sics.tac.aw.TACMessage.deliverMessage(TACMessage.java:80)
+	at se.sics.tac.aw.TACReader.handleMessage(TACReader.java:164)
+	at se.sics.tac.aw.TACReader.run(TACReader.java:95)
+	at java.lang.Thread.run(Unknown Source)
+05/12 21:15:02 FINE aw.PostTraumaticAgent|============= Hotel auction Cheap Hotel 4 closed!
+05/12 21:15:02 FINE aw.PostTraumaticAgent|============= Old allocation: 0
+05/12 21:15:02 FINE aw.PostTraumaticAgent|============= New allocation: 0
+05/12 21:15:02 FINE aw.PostTraumaticAgent|============= Own: 0
+05/12 21:15:12 FINE aw.PostTraumaticAgent|============= Flight Demand Estimations: [-113.777794, 64.00001, 85.33334, 28.444447, 12.190476, -18.285715, 45.714287, 24.380953]
+05/12 21:15:12 FINE aw.PostTraumaticAgent|============= Hotel Demand Estimations: [-113.777794, -61.96826, 41.650795, 24.380953]
+05/12 21:15:12 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:12 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:12 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71191 auction=8 state=valid
+05/12 21:15:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71192 auction=12 state=valid
+05/12 21:15:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71193 auction=13 state=valid
+05/12 21:15:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71194 auction=14 state=valid
+05/12 21:15:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:15:22 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:22 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:22 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:32 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:32 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:32 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:42 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:42 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:42 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71191 auction=8 state=valid
+05/12 21:15:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71192 auction=12 state=valid
+05/12 21:15:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71193 auction=13 state=valid
+05/12 21:15:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71194 auction=14 state=valid
+05/12 21:15:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:15:52 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:52 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:15:52 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:8
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 2
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 121564
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 3
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 2.0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 3
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 180000
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:13
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 2
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 121659
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 135
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 2.0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 133
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 3
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 180000
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:14
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 2
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 121841
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 169
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 2.0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 167
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 3
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 180000
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:15
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 2
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 121978
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 2.0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Current Price is: 0
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 3
+05/12 21:16:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 180000
+05/12 21:16:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:02 WARNING aw.PostTraumaticAgent|!!!!!!!! Bid Rejected: 71493
+05/12 21:16:02 WARNING aw.PostTraumaticAgent|!!!!!!!!       Reason: 21 (bid not improved)
+05/12 21:16:02 WARNING aw.PostTraumaticAgent|!!!!!!!!      Auction: Good Hotel 4
+05/12 21:16:03 WARNING aw.PostTraumaticAgent|!!!!!!!!     My Price: 2.0
+05/12 21:16:03 WARNING aw.PostTraumaticAgent|!!!!!!!!    Ask Price: 2.0
+05/12 21:16:03 FINE aw.PostTraumaticAgent|              Bid Updated: id=71490 auction=8 state=valid
+05/12 21:16:03 FINE aw.PostTraumaticAgent|============= Hotel auction Good Hotel 1 closed!
+05/12 21:16:03 FINE aw.PostTraumaticAgent|============= Old allocation: 5
+05/12 21:16:03 FINE aw.PostTraumaticAgent|============= New allocation: 0
+05/12 21:16:03 FINE aw.PostTraumaticAgent|============= Own: 5
+05/12 21:16:03 FINE aw.PostTraumaticAgent|              Bid Updated: id=71491 auction=13 state=valid
+05/12 21:16:03 FINE aw.PostTraumaticAgent|              Bid Updated: id=71492 auction=14 state=valid
+05/12 21:16:12 FINE aw.PostTraumaticAgent|************* Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:12 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 0, 0]
+05/12 21:16:12 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [5, 0, 0, 0, 2, 0, 0, 0]
+05/12 21:16:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71490 auction=8 state=valid
+05/12 21:16:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71491 auction=13 state=valid
+05/12 21:16:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71492 auction=14 state=valid
+05/12 21:16:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:16:22 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 0, 0, 2, 0, 0, 0]
+05/12 21:16:22 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 0, 0]
+05/12 21:16:22 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:32 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 0, 0, 2, 0, 0, 0]
+05/12 21:16:32 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 0, 0]
+05/12 21:16:32 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:42 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 0, 0, 2, 0, 0, 0]
+05/12 21:16:42 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 0, 0]
+05/12 21:16:42 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71490 auction=8 state=valid
+05/12 21:16:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71491 auction=13 state=valid
+05/12 21:16:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71492 auction=14 state=valid
+05/12 21:16:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:16:52 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 0, 0, 2, 0, 0, 0]
+05/12 21:16:52 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 0, 0]
+05/12 21:16:52 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:16:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:16:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:8
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 3
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 181610
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1.0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 4
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 240000
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:13
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 3
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 181618
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 237
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current Price is: 236.0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 4
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 240000
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:15
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 3
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 181633
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current Price is: 2.0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Current Price is: 0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 4
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 240000
+05/12 21:17:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 0, 0, 2, 0, 0, 0]
+05/12 21:17:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 0, 0]
+05/12 21:17:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:17:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:02 WARNING aw.PostTraumaticAgent|!!!!!!!! Bid Rejected: 71605
+05/12 21:17:02 WARNING aw.PostTraumaticAgent|!!!!!!!!       Reason: 21 (bid not improved)
+05/12 21:17:02 WARNING aw.PostTraumaticAgent|!!!!!!!!      Auction: Good Hotel 4
+05/12 21:17:02 WARNING aw.PostTraumaticAgent|!!!!!!!!     My Price: 2.0
+05/12 21:17:02 WARNING aw.PostTraumaticAgent|!!!!!!!!    Ask Price: 2.0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71603 auction=8 state=valid
+05/12 21:17:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71604 auction=13 state=valid
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Hotel auction Good Hotel 3 closed!
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Old allocation: 3
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= New allocation: 0
+05/12 21:17:02 FINE aw.PostTraumaticAgent|============= Own: 3
+05/12 21:17:12 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 0, 0, 2, 0, 0, 0]
+05/12 21:17:12 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:17:12 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 2, 0, 0, 0, 0, 0]
+05/12 21:17:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71603 auction=8 state=valid
+05/12 21:17:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71604 auction=13 state=valid
+05/12 21:17:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:17:22 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:17:22 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:17:22 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:17:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:32 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:17:32 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:17:32 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:17:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:42 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:17:42 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:17:42 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:17:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71603 auction=8 state=valid
+05/12 21:17:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71604 auction=13 state=valid
+05/12 21:17:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:17:52 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:17:52 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:17:52 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:17:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:17:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:8
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 4
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 241639
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1.0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 5
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 300000
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:13
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 4
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 241650
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 188
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current Price is: 130.0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current Price is: 58
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 5
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 300000
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:15
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 4
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 241660
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current Price is: 2.0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Current Price is: 0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 5
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 300000
+05/12 21:18:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:18:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:18:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:18:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Hotel auction Cheap Hotel 3 closed!
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Old allocation: 0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= New allocation: 0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|============= Own: 0
+05/12 21:18:02 WARNING aw.PostTraumaticAgent|!!!!!!!! Bid Rejected: 71719
+05/12 21:18:02 WARNING aw.PostTraumaticAgent|!!!!!!!!       Reason: 21 (bid not improved)
+05/12 21:18:02 WARNING aw.PostTraumaticAgent|!!!!!!!!      Auction: Good Hotel 4
+05/12 21:18:02 WARNING aw.PostTraumaticAgent|!!!!!!!!     My Price: 2.0
+05/12 21:18:02 WARNING aw.PostTraumaticAgent|!!!!!!!!    Ask Price: 2.0
+05/12 21:18:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71717 auction=8 state=valid
+05/12 21:18:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71718 auction=13 state=valid
+05/12 21:18:12 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:18:12 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:18:12 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:18:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71717 auction=8 state=valid
+05/12 21:18:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71718 auction=13 state=valid
+05/12 21:18:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:18:22 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:18:22 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:18:22 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:18:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:32 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:18:32 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:18:32 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:18:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:42 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:18:42 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:18:42 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:18:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71717 auction=8 state=valid
+05/12 21:18:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71718 auction=13 state=valid
+05/12 21:18:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71195 auction=15 state=valid
+05/12 21:18:52 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:18:52 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:18:52 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:18:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:18:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:8
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 5
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 301663
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1.0
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 6
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 360000
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:13
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 5
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 301670
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 197
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current Price is: 188.0
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Current Price is: 9
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 6
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 360000
+05/12 21:19:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:19:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 0]
+05/12 21:19:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:19:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71829 auction=8 state=valid
+05/12 21:19:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71830 auction=13 state=valid
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Hotel auction Good Hotel 4 closed!
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Here an auction needs reallocation: Good Hotel 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|=============                      status string: Closed, status number: 3
+05/12 21:19:02 FINE aw.PostTraumaticAgent|=============                               owns: 1
+05/12 21:19:02 FINE aw.PostTraumaticAgent|=============                        allocations: 2
+05/12 21:19:02 FINE aw.PostTraumaticAgent|=============                           my price: 2.0
+05/12 21:19:02 FINE aw.PostTraumaticAgent|=============                          ask price: 2.0
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Try shorten stay by 1 days for action: Good Hotel 4 for client: 1
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= hotelShortenStay() is called
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= flightType OutFlight
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= auctionDay 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Shorten Succeeded? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= First Hotel Day: 3
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Last  Hotel Day: 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Try shorten stay by 2 days for action: Good Hotel 4 for client: 1
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= hotelShortenStay() is called
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= flightType OutFlight
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= auctionDay 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Shorten Succeeded? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= First Hotel Day: 3
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Last  Hotel Day: 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Try shorten stay by 3 days for action: Good Hotel 4 for client: 1
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= hotelShortenStay() is called
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= flightType OutFlight
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= auctionDay 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Shorten Succeeded? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= First Hotel Day: 3
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Last  Hotel Day: 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Failed to shorten stay for action: Good Hotel 4 for client: 0
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Try shorten stay by 1 days for action: Good Hotel 4 for client: 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= hotelShortenStay() is called
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= flightType OutFlight
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= auctionDay 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Shorten Succeeded? false
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= First Hotel Day: 1
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Last  Hotel Day: 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Try shorten stay by 2 days for action: Good Hotel 4 for client: 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= hotelShortenStay() is called
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= flightType OutFlight
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= auctionDay 4
+05/12 21:19:02 WARNING aw.PostTraumaticAgent|============= This is un-realistic 2
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= After shorten stay, flight arrival/departure days: 1, 3
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Shorten Succeeded? true
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= First Hotel Day: 1
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Last  Hotel Day: 4
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Old allocation: 3
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= New allocation: 2
+05/12 21:19:02 FINE aw.PostTraumaticAgent|============= Own: 1
+05/12 21:19:12 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 0]
+05/12 21:19:12 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 1]
+05/12 21:19:12 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 2]
+05/12 21:19:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71829 auction=8 state=valid
+05/12 21:19:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71830 auction=13 state=valid
+05/12 21:19:22 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 2]
+05/12 21:19:22 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 1]
+05/12 21:19:22 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:19:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:32 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 2]
+05/12 21:19:32 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 1]
+05/12 21:19:32 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:19:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:42 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 2]
+05/12 21:19:42 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 1]
+05/12 21:19:42 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:19:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71829 auction=8 state=valid
+05/12 21:19:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71830 auction=13 state=valid
+05/12 21:19:52 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 2]
+05/12 21:19:52 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 1]
+05/12 21:19:52 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:19:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:19:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:8
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 6
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 361692
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1.0
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 7
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 420000
+05/12 21:20:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 2]
+05/12 21:20:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 0, 3, 1]
+05/12 21:20:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:20:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=71934 auction=8 state=valid
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Hotel auction Good Hotel 2 closed!
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Old allocation: 3
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= New allocation: 0
+05/12 21:20:02 FINE aw.PostTraumaticAgent|============= Own: 3
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 0, 0, 2]
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 3, 0, 0]
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=71934 auction=8 state=valid
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=71934 auction=8 state=valid
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:20:52 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:20:52 FINE aw.PostTraumaticAgent|              Bid Updated: id=72013 auction=0 state=transacted
+05/12 21:20:52 FINE aw.PostTraumaticAgent|              Bid Updated: id=72014 auction=2 state=transacted
+05/12 21:20:52 FINE aw.PostTraumaticAgent|              Bid Updated: id=72015 auction=4 state=transacted
+05/12 21:20:52 FINE aw.PostTraumaticAgent|              Bid Updated: id=72016 auction=5 state=transacted
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Is it the final bid mode? false, offset:0
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= This is hotel price predictor for hotel auction:8
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Current time in minutes is: 7
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Current time in milli is: 421723
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Predicted Price is: 2
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1.0
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Current Price is: 1
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Predicted for time (min  ): 8
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Predicted for time (milli): 480000
+05/12 21:21:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:21:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:21:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:21:02 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Hotel auction Cheap Hotel 2 closed!
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Old allocation: 0
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= New allocation: 0
+05/12 21:21:02 FINE aw.PostTraumaticAgent|============= Own: 0
+05/12 21:21:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=72017 auction=8 state=valid
+05/12 21:21:02 FINE aw.PostTraumaticAgent|              Bid Updated: id=72018 auction=7 state=transacted
+05/12 21:21:12 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:21:12 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:21:12 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:21:17 FINE aw.PostTraumaticAgent|              Bid Updated: id=72017 auction=8 state=valid
+05/12 21:21:21 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:21:21 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:21:21 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:21:31 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:21:31 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:21:31 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:21:42 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:21:42 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:21:42 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:21:47 FINE aw.PostTraumaticAgent|              Bid Updated: id=72017 auction=8 state=valid
+05/12 21:21:52 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:21:52 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:21:52 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:22:02 FINE aw.PostTraumaticAgent|************* Flight Owns: [5, 0, 2, 0, 2, 3, 0, 2]
+05/12 21:22:02 FINE aw.PostTraumaticAgent|************* Hotel Owns: [0, 0, 0, 0, 5, 3, 3, 1]
+05/12 21:22:02 FINE aw.PostTraumaticAgent|************* New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+05/12 21:22:02 FINE aw.PostTraumaticAgent|============= Hotel auction Cheap Hotel 1 closed!
+05/12 21:22:02 FINE aw.PostTraumaticAgent|============= Old allocation: 1
+05/12 21:22:02 FINE aw.PostTraumaticAgent|============= New allocation: 0
+05/12 21:22:02 FINE aw.PostTraumaticAgent|============= Own: 1
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* Clients with un-feasible travel package yet: [4, 5, 6, 7]
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 5
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 6
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 7
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 8
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* firstHotelDay? false
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* lastHotelDay?  false
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* Clients with no first and last hotel day : [7]
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* Totally Dropped Clients: [7]
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:22:12 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:22:12 FINE aw.PostTraumaticAgent|              Bid Updated: id=72129 auction=6 state=transacted
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* Clients with un-feasible travel package yet: [4, 5, 6, 7]
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 5
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 6
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 7
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 8
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* firstHotelDay? false
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* lastHotelDay?  false
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* Clients with no first and last hotel day : [7]
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* Totally Dropped Clients: [7]
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:22:22 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:22:22 FINE aw.PostTraumaticAgent|              Bid Updated: id=72130 auction=6 state=transacted
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* Clients with un-feasible travel package yet: [4, 5, 6, 7]
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 5
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 6
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 7
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 8
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* firstHotelDay? false
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* lastHotelDay?  false
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* Clients with no first and last hotel day : [7]
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* Totally Dropped Clients: [7]
+05/12 21:22:32 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? false
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* Clients with un-feasible travel package yet: [4, 5, 6, 7]
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 5
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 6
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 7
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 8
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* firstHotelDay? false
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* lastHotelDay?  false
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* Clients with no first and last hotel day : [7]
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* Totally Dropped Clients: [7]
+05/12 21:22:42 FINE aw.PostTraumaticAgent|************* FlightPricePredictor buy now? true
+05/12 21:22:42 FINE aw.PostTraumaticAgent|              Bid Updated: id=72133 auction=4 state=transacted
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* Clients with un-feasible travel package yet: [4, 5, 6, 7]
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 5
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 6
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 7
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* firstHotelDay? true
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* lastHotelDay?  true
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* Client has first or last hotel day, we're trying to feasible his stay.
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* This is client with yet not feasible travel package: 8
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* firstHotelDay? false
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* lastHotelDay?  false
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* Clients with no first and last hotel day : [7]
+05/12 21:22:52 FINE aw.PostTraumaticAgent|************* Totally Dropped Clients: [7]
+05/12 21:23:02 FINE aw.TACAgent|Game 84 has ended
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Start Printing All Flight Prices
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Inflight 1:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 396.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 403.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 406.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 404.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 404.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 397.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 405.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 402.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 401.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 404.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 409.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 406.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 398.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 395.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 389.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 391.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 391.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 399.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 405.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 396.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 388.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 392.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 397.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 403.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 394.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 395.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 386.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 380.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 373.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 377.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 379.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 378.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 376.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 380.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 381.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 373.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 378.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 382.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 374.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 372.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 372.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 375.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 371.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 375.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 367.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 361.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 353.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 350.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 345.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 337.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 339.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 340.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 330.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 329.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Inflight 2:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 328.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 325.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 330.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 329.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 335.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 334.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 332.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 338.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 345.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 344.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 344.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 349.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 345.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 352.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 351.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 345.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 341.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 342.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 353.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 356.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 366.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 361.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 356.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 366.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 378.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 386.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 384.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 385.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 385.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 383.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 394.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 396.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 398.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 406.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 396.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 387.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 390.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 386.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 380.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 395.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 410.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 402.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 408.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 405.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 419.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 426.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 437.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 440.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 447.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 440.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 449.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 448.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 446.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 443.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Inflight 3:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 306.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 296.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 286.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 285.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 290.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 292.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 297.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 287.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 286.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 290.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 293.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 296.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 286.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 288.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 290.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 288.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 297.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 294.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 294.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 299.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 298.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 302.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 305.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 311.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 320.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 320.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 315.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 317.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 325.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 318.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 321.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 311.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 301.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 298.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 306.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 303.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 305.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 307.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 310.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 303.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 308.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 311.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 310.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 310.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 316.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 312.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 312.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 304.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 295.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 298.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 301.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 301.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 297.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 289.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Inflight 4:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 399.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 402.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 393.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 396.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 386.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 386.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 376.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 382.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 387.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 391.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 392.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 398.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 391.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 390.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 382.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 384.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 386.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 383.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 375.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 378.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 368.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 372.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 375.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 365.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 363.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 356.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 353.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 352.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 347.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 338.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 331.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 325.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 324.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 315.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 325.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 334.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 342.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 345.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 351.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 360.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 369.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 374.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 373.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 377.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 383.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 382.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 379.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 385.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 382.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 380.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 384.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 394.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 399.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 403.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Outflight 2:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 345.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 353.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 352.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 351.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 346.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 336.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 340.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 346.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 355.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 350.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 352.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 352.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 350.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 358.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 354.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 360.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 365.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 372.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 371.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 366.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 366.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 366.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 367.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 360.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 366.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 362.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 357.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 359.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 361.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 361.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 354.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 358.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 348.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 350.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 342.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 339.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 338.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 339.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 335.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 333.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 335.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 332.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 328.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 324.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 321.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 323.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 314.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 314.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 313.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 310.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 301.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 301.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 293.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 290.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Outflight 3:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 303.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 304.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 298.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 292.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 298.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 302.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 295.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 300.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 293.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 283.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 284.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 290.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 289.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 288.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 285.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 281.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 287.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 284.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 287.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 292.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 297.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 295.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 287.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 282.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 281.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 283.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 276.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 275.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 270.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 272.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 275.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 275.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 279.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 279.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 269.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 263.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 258.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 260.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 263.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 260.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 259.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 260.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 256.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 246.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 243.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 235.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 236.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 235.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 229.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 227.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 226.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 225.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 219.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 220.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Outflight 4:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 375.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 366.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 375.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 381.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 382.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 383.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 374.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 381.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 383.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 389.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 396.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 397.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 397.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 406.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 406.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 401.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 398.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 406.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 409.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 414.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 416.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 407.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 420.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 425.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 423.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 420.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 432.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 439.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 443.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 446.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 454.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 447.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 454.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 462.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 468.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 478.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 488.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 495.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 501.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 504.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 513.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 525.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 529.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 521.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 527.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 517.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 509.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 501.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 516.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 531.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 546.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 554.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 550.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 568.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Outflight 5:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1387, 321.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              11364, 330.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              21366, 337.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31416, 347.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              41378, 354.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              51391, 353.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61694, 350.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              71532, 347.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              81566, 348.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91630, 341.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              101578, 339.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              111584, 329.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122075, 328.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              131611, 329.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              141615, 329.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151668, 321.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              161629, 334.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              171627, 334.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181700, 332.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              191634, 344.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              201642, 355.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211700, 362.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              221648, 376.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              231672, 383.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241730, 392.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              251667, 406.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              261670, 401.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271716, 396.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              281676, 401.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              291682, 393.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301745, 407.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              311693, 422.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              321705, 438.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331753, 451.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              341705, 463.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              351711, 464.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361762, 466.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              371720, 462.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              381722, 458.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391764, 478.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              401736, 481.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              411734, 495.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421813, 495.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              432119, 496.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              441311, 492.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451438, 496.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              461515, 495.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              471810, 497.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481851, 514.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              491814, 513.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              501820, 530.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511860, 550.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              521826, 544.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              531832, 542.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Finish Printing All Flight Prices
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Start Printing All Hotel Prices
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Cheap Hotel 1:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1469, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61501, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121564, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181610, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241639, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301663, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361692, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421723, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481793, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Cheap Hotel 2:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1474, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61514, 170.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121655, 182.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181618, 209.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241647, 209.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301670, 209.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361699, 209.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421734, 209.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Cheap Hotel 3:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1479, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61542, 214.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121655, 214.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181618, 215.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241647, 215.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Cheap Hotel 4:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1482, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61546, 116.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Good Hotel 1:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1486, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61550, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121656, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Good Hotel 2:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1491, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61558, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121659, 103.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181618, 129.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241648, 130.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301670, 144.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361699, 150.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Good Hotel 3:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1495, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61570, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121841, 129.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181632, 134.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, price) for Good Hotel 4:
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1499, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61582, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121978, 2.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181633, 2.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241660, 2.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301679, 2.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Finish Printing All Hotel Prices
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Start Printing All Entertainment Ask/Bid Prices
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Alligator 1 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1428, 0.0, 50.0712
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31348, 170.1024, 50.2676
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61595, 170.1024, 50.2676
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91548, 113.5404, 57.7051
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121999, 113.5404, 57.7051
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151598, 91.352, 62.8561
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181644, 91.352, 62.8561
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211623, 130.6463, 72.7882
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241671, 130.6463, 72.7882
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271653, 115.8788, 76.1422
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301679, 115.8788, 76.1422
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331678, 0.0, 74.177
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361702, 0.0, 74.177
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391706, 0.0, 80.8248
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421734, 0.0, 80.8248
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451367, 0.0, 75.7439
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481796, 0.0, 75.7439
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511804, 0.0, 84.9188
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Alligator 2 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1430, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31351, 111.0836, 50.1415
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61595, 111.0836, 50.1415
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91551, 121.833, 57.8137
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121999, 121.833, 57.8137
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151601, 127.1495, 66.2833
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181645, 127.1495, 66.2833
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211627, 98.6341, 73.9107
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241672, 98.6341, 73.9107
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271655, 87.2839, 78.8682
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301680, 87.2839, 78.8682
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331681, 80.2875, 67.9798
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361706, 80.2875, 67.9798
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391708, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421736, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451371, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481798, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511806, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Alligator 3 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1430, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31353, 154.0998, 50.1959
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61598, 154.0998, 50.1959
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91553, 135.0989, 56.461
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              121999, 135.0989, 56.461
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151605, 127.5598, 62.9288
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181645, 127.5598, 62.9288
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211630, 87.4325, 69.4486
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241672, 87.4325, 69.4486
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271658, 94.0098, 75.2925
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301683, 94.0098, 75.2925
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331685, 94.9164, 84.6399
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361708, 94.9164, 84.6399
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391710, 96.6444, 75.2584
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421741, 96.6444, 75.2584
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451374, 0.0, 75.2584
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481800, 0.0, 75.2584
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511808, 0.0, 75.2584
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Alligator 4 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1430, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31357, 132.0178, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61605, 132.0178, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91557, 138.5021, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122004, 138.5021, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151609, 119.0379, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181646, 119.0379, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211633, 91.6865, 64.5558
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241672, 91.6865, 64.5558
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271661, 93.7213, 62.1745
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301685, 93.7213, 62.1745
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331690, 87.4865, 74.3624
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361711, 87.4865, 74.3624
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391713, 69.2705, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421747, 69.2705, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451378, 66.731, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481803, 66.731, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511811, 59.7949, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Amusement 1 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1430, 150.686, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31360, 181.4888, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61609, 181.4888, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91561, 120.9457, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122004, 120.9457, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151611, 98.538, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181649, 98.538, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211638, 89.331, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241674, 89.331, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271665, 95.9333, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301689, 95.9333, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331693, 72.4096, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361713, 72.4096, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391715, 76.4705, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421751, 76.4705, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451382, 61.9675, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481805, 61.9675, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511814, 55.1357, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Amusement 2 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1433, 0.0, 50.121
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31364, 124.3676, 50.2641
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61614, 124.3676, 50.2641
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91566, 150.6894, 55.7242
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122005, 150.6894, 55.7242
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151615, 127.684, 65.3525
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181652, 127.684, 65.3525
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211642, 118.6283, 70.3413
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241677, 118.6283, 70.3413
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271669, 122.7941, 79.6845
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301692, 122.7941, 79.6845
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331697, 0.0, 85.544
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361717, 0.0, 85.544
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391719, 0.0, 79.1444
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421755, 0.0, 79.1444
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451385, 0.0, 93.4138
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481808, 0.0, 93.4138
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511816, 0.0, 110.5029
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Amusement 3 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1441, 0.0, 50.1491
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31368, 133.429, 50.1171
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61625, 133.429, 50.1171
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91572, 152.3946, 58.2028
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122005, 152.3946, 58.2028
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151619, 109.9301, 64.0537
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181655, 109.9301, 64.0537
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211647, 126.4796, 71.5095
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241680, 126.4796, 71.5095
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271672, 112.4567, 69.2646
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301694, 112.4567, 69.2646
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331701, 94.3167, 69.2646
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361719, 94.3167, 69.2646
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391721, 67.2265, 57.483
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421759, 67.2265, 57.483
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451390, 61.6463, 57.483
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481811, 61.6463, 57.483
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511819, 58.9696, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Amusement 4 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1446, 0.0, 50.1705
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31372, 0.0, 50.2014
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61631, 0.0, 50.2014
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91577, 142.5825, 58.3009
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122023, 142.5825, 58.3009
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151622, 108.6296, 65.8092
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181658, 108.6296, 65.8092
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211650, 136.0978, 70.1561
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241684, 136.0978, 70.1561
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271676, 109.8901, 80.9047
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301697, 109.8901, 80.9047
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331707, 96.5527, 82.0985
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361723, 96.5527, 82.0985
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391724, 111.9165, 89.9304
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421762, 111.9165, 89.9304
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451394, 111.9165, 77.6634
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481814, 111.9165, 77.6634
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511823, 111.9165, 109.5866
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Museum 1 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1451, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31376, 120.4989, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61638, 120.4989, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91581, 129.954, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122025, 129.954, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151625, 153.5939, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181661, 153.5939, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211654, 107.569, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241688, 107.569, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271680, 80.8389, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301700, 80.8389, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331710, 75.5942, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361727, 75.5942, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391728, 70.1459, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421767, 70.1459, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451397, 70.2266, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481817, 70.2266, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511826, 57.9819, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Museum 2 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1455, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31380, 102.5281, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61643, 102.5281, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91585, 140.1919, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122025, 140.1919, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151630, 94.835, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181664, 94.835, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211659, 88.9489, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241691, 88.9489, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271683, 103.7482, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301703, 103.7482, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331714, 80.6697, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361731, 80.6697, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391731, 78.1893, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421771, 78.1893, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451401, 62.0641, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481820, 62.0641, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511829, 56.1225, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Museum 3 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1461, 194.8818, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31383, 131.8361, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61648, 131.8361, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91591, 121.2339, 53.7931
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122025, 121.2339, 53.7931
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151633, 123.5634, 60.5262
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181668, 123.5634, 60.5262
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211663, 115.6186, 71.5672
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241695, 115.6186, 71.5672
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271687, 104.1115, 81.8026
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301706, 104.1115, 81.8026
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331718, 93.8815, 88.1659
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361734, 93.8815, 88.1659
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391734, 92.7307, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421775, 92.7307, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451406, 66.2381, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481824, 66.2381, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511832, 59.6447, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing (time, ask price, price) for Museum 4 :
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              1465, 0.0, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              31385, 107.1806, 50.116
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              61656, 107.1806, 50.116
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              91595, 99.3005, 57.285
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              122036, 99.3005, 57.285
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              151637, 99.3005, 57.285
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              181673, 99.3005, 57.285
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              211667, 107.0143, 57.285
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              241698, 107.0143, 57.285
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              271690, 79.0219, 71.0969
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              301709, 79.0219, 71.0969
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              331723, 81.2441, 78.2036
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              361737, 81.2441, 78.2036
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              391737, 69.3785, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              421780, 69.3785, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              451409, 61.67, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              481827, 61.67, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              511836, 55.3818, 0.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Finish Printing All Entertainment Ask/Bid Prices
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Printing Client Preferences
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 1 : [3, 4, 85, 165, 78, 169]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 2 : [1, 3, 88, 113, 98, 102]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 3 : [1, 2, 147, 87, 130, 31]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 4 : [1, 3, 73, 191, 77, 89]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 5 : [1, 3, 120, 45, 5, 85]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 6 : [1, 2, 83, 109, 30, 194]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 7 : [3, 5, 127, 68, 10, 62]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Client 8 : [1, 2, 54, 103, 124, 51]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Finish Printing Client Preferences
+05/12 21:23:02 FINE aw.PostTraumaticAgent|************* Flight Tickets Predictions profits       : [-46.0, 443.0, -22.0, 403.0, -3.0, -40.0, 22.0, 47.0]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|*************                            actual profits: [-230.0, 0.0, -44.0, 0.0, -9.0, -120.0, 44.0, 94.0]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|*************                            success ratio : 50.0 %
+05/12 21:23:02 FINE aw.PostTraumaticAgent|*************                     actual success ratio : 33.333333333333336 %
+05/12 21:23:02 FINE aw.PostTraumaticAgent|*************                            profits (1 flight/day): 804.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|*************                            total profits (actual bough flights): -265.0
+05/12 21:23:02 FINE aw.PostTraumaticAgent|============= Hotel Tickets Predictions bid prices: [2.0, 296.0, 2.0, 153.0, 1.0]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|=============                           ask prices: [0.0, 134.0, 2.0, 150.0, 0.0]
+05/12 21:23:02 FINE aw.PostTraumaticAgent|=============                       success ratio : 100.0 %
+05/12 21:23:02 FINE aw.PostTraumaticAgent|              Game Stopped!
+05/12 21:23:02 FINE aw.TACAgent|Game log complete
+************************************************************
+* Game log complete
+************************************************************
+
+

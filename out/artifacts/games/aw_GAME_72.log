@@ -1,0 +1,2532 @@
+02/12 13:50:01 FINE aw.TACAgent|Log for game 72 started
+************************************************************
+* Log for game 72 started
+************************************************************
+
+
+02/12 13:50:01 FINE aw.TACAgent|Starting up game: 72
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Game 72 started!
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Printing Client Preferences
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 1 : [1, 3, 121, 58, 152, 167]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 2 : [3, 4, 117, 98, 22, 4]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 3 : [2, 3, 55, 134, 51, 33]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 4 : [1, 2, 95, 166, 103, 105]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 5 : [2, 4, 64, 14, 34, 100]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 6 : [1, 4, 148, 73, 40, 62]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 7 : [1, 3, 84, 48, 117, 34]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 8 : [1, 3, 115, 85, 136, 174]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Finish Printing Client Preferences
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:01 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Bid Updated: id=59839 auction=9 state=valid
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Bid Updated: id=59840 auction=10 state=valid
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Bid Updated: id=59841 auction=12 state=valid
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Bid Updated: id=59842 auction=13 state=valid
+02/12 13:50:01 FINE aw.PostTraumaticAgent|Bid Updated: id=59843 auction=14 state=valid
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:50:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:50:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:50:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:50:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59839 auction=9 state=valid
+02/12 13:50:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59840 auction=10 state=valid
+02/12 13:50:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59841 auction=12 state=valid
+02/12 13:50:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59842 auction=13 state=valid
+02/12 13:50:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59843 auction=14 state=valid
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:50:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:50:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Quote for auction: Cheap Hotel 2 has HQW ? true, HQW:2
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Quote for auction: Cheap Hotel 3 has HQW ? true, HQW:0
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:5
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 2 has HQW ? true, HQW:4
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:2
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 1 closed!
+02/12 13:51:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Old allocation: 0
+02/12 13:51:02 FINE aw.PostTraumaticAgent|New allocation: 0
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Own: 0
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59844 auction=9 state=valid
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59845 auction=10 state=valid
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59846 auction=12 state=valid
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59847 auction=13 state=valid
+02/12 13:51:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59848 auction=14 state=valid
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:51:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59844 auction=9 state=valid
+02/12 13:51:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59845 auction=10 state=valid
+02/12 13:51:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59846 auction=12 state=valid
+02/12 13:51:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59847 auction=13 state=valid
+02/12 13:51:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59848 auction=14 state=valid
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:51:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:51:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:51:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59844 auction=9 state=valid
+02/12 13:51:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59845 auction=10 state=valid
+02/12 13:51:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59846 auction=12 state=valid
+02/12 13:51:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59847 auction=13 state=valid
+02/12 13:51:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59848 auction=14 state=valid
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:51:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:51:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Quote for auction: Cheap Hotel 3 has HQW ? true, HQW:1
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:10
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121385
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 215
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 131.0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 84
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:5
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121431
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 2 has HQW ? true, HQW:4
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121439
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 121445
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 3
+02/12 13:52:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 180000
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:52:02 FINE aw.PostTraumaticAgent|                    Y Length: 13
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 2 closed!
+02/12 13:52:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Old allocation: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|New allocation: 0
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Own: 2
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59964 auction=10 state=valid
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59965 auction=12 state=valid
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59966 auction=13 state=valid
+02/12 13:52:02 FINE aw.PostTraumaticAgent|Bid Updated: id=59967 auction=14 state=valid
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Flight Owns: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:52:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:52:12 FINE aw.PostTraumaticAgent|                    Y Length: 14
+02/12 13:52:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59964 auction=10 state=valid
+02/12 13:52:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59965 auction=12 state=valid
+02/12 13:52:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59966 auction=13 state=valid
+02/12 13:52:16 FINE aw.PostTraumaticAgent|Bid Updated: id=59967 auction=14 state=valid
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:52:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:52:22 FINE aw.PostTraumaticAgent|                    Y Length: 15
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:52:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:32 FINE aw.PostTraumaticAgent|                    Y Length: 16
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:52:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:42 FINE aw.PostTraumaticAgent|                    Y Length: 17
+02/12 13:52:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59964 auction=10 state=valid
+02/12 13:52:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59965 auction=12 state=valid
+02/12 13:52:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59966 auction=13 state=valid
+02/12 13:52:46 FINE aw.PostTraumaticAgent|Bid Updated: id=59967 auction=14 state=valid
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:52:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:52:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:52:52 FINE aw.PostTraumaticAgent|                    Y Length: 18
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Quote for auction: Cheap Hotel 3 has HQW ? true, HQW:1
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:10
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181455
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 222
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 215.0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 7
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:4
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181463
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 1
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 1
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 2 has HQW ? true, HQW:4
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:13
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181469
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:2
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 3
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 181474
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 1
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2.0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Current Price is: 1
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 4
+02/12 13:53:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 240000
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:02 FINE aw.PostTraumaticAgent|                    Y Length: 19
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 4 closed!
+02/12 13:53:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Old allocation: 0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|New allocation: 0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Own: 0
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Bid Updated: id=60069 auction=10 state=valid
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Bid Updated: id=60070 auction=12 state=valid
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Bid Updated: id=60071 auction=13 state=valid
+02/12 13:53:02 FINE aw.PostTraumaticAgent|Bid Updated: id=60072 auction=14 state=valid
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:53:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:12 FINE aw.PostTraumaticAgent|                    Y Length: 20
+02/12 13:53:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60069 auction=10 state=valid
+02/12 13:53:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60070 auction=12 state=valid
+02/12 13:53:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60071 auction=13 state=valid
+02/12 13:53:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60072 auction=14 state=valid
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:53:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:22 FINE aw.PostTraumaticAgent|                    Y Length: 21
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:53:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:32 FINE aw.PostTraumaticAgent|                    Y Length: 22
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:53:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:42 FINE aw.PostTraumaticAgent|                    Y Length: 23
+02/12 13:53:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60069 auction=10 state=valid
+02/12 13:53:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60070 auction=12 state=valid
+02/12 13:53:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60071 auction=13 state=valid
+02/12 13:53:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60072 auction=14 state=valid
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:53:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:53:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:53:52 FINE aw.PostTraumaticAgent|                    Y Length: 24
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Quote for auction: Cheap Hotel 3 has HQW ? true, HQW:1
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:10
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 4
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 241481
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 217
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current Price is: 165.0
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current Price is: 52
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 5
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 300000
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 1 has HQW ? true, HQW:4
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:12
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 4
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 241488
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 3
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current Price is: 3.0
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current Price is: 0
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 5
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 300000
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:2
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 4
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 241494
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 3
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current Price is: 3.0
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Current Price is: 0
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 5
+02/12 13:54:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 300000
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 0, 0, 0]
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:02 FINE aw.PostTraumaticAgent|                    Y Length: 25
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|Bid Rejected: 60160
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|      Reason: 21 (bid not improved)
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|     Auction: Good Hotel 1
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|    My Price: 3.0
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|   Ask Price: 3.0
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|Bid Rejected: 60161
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|      Reason: 21 (bid not improved)
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|     Auction: Good Hotel 3
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|    My Price: 3.0
+02/12 13:54:02 WARNING aw.PostTraumaticAgent|   Ask Price: 3.0
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Bid Updated: id=60159 auction=10 state=valid
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 2 closed!
+02/12 13:54:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Old allocation: 4
+02/12 13:54:02 FINE aw.PostTraumaticAgent|New allocation: 0
+02/12 13:54:02 FINE aw.PostTraumaticAgent|Own: 4
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 4, 0, 0]
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:54:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:12 FINE aw.PostTraumaticAgent|                    Y Length: 26
+02/12 13:54:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60159 auction=10 state=valid
+02/12 13:54:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60070 auction=12 state=valid
+02/12 13:54:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60072 auction=14 state=valid
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 4, 0, 0]
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:54:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:22 FINE aw.PostTraumaticAgent|                    Y Length: 27
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 4, 0, 0]
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:54:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:32 FINE aw.PostTraumaticAgent|                    Y Length: 28
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 4, 0, 0]
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:54:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:42 FINE aw.PostTraumaticAgent|                    Y Length: 29
+02/12 13:54:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60159 auction=10 state=valid
+02/12 13:54:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60070 auction=12 state=valid
+02/12 13:54:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60072 auction=14 state=valid
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 4, 0, 0]
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:54:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:54:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:54:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:54:52 FINE aw.PostTraumaticAgent|                    Y Length: 30
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Quote for auction: Cheap Hotel 3 has HQW ? true, HQW:1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:10
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 5
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 301507
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 212
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current Price is: 210.0
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current Price is: 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 6
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 360000
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Quote for auction: Good Hotel 3 has HQW ? true, HQW:2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:14
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 5
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 301513
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 3
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current Price is: 3.0
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Current Price is: 0
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 6
+02/12 13:55:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 360000
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 0, 4, 0, 0]
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/true
+02/12 13:55:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                    Y Length: 31
+02/12 13:55:02 WARNING aw.PostTraumaticAgent|Bid Rejected: 60248
+02/12 13:55:02 WARNING aw.PostTraumaticAgent|      Reason: 21 (bid not improved)
+02/12 13:55:02 WARNING aw.PostTraumaticAgent|     Auction: Good Hotel 3
+02/12 13:55:02 WARNING aw.PostTraumaticAgent|    My Price: 3.0
+02/12 13:55:02 WARNING aw.PostTraumaticAgent|   Ask Price: 3.0
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Bid Updated: id=60247 auction=10 state=valid
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 1 closed!
+02/12 13:55:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Old allocation: 5
+02/12 13:55:02 FINE aw.PostTraumaticAgent|New allocation: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Own: 4
+02/12 13:55:02 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                     status string: Closed, status number: 3
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                              owns: 4
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                       allocations: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                          my price: 3.0
+02/12 13:55:02 FINE aw.PostTraumaticAgent|                         ask price: 3.0
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 1 for client: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 1 for client: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Try shorten stay by 3 days for action: Good Hotel 1 for client: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType InFlight
+02/12 13:55:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 2
+02/12 13:55:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 1 for client: 0
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Flight Owns: [0, 1, 0, 0, 0, 1, 0, 0]
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 0, 0]
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:55:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [4, 0, 0, 0, 1, 3, 0, 0]
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:12 FINE aw.PostTraumaticAgent|                    Y Length: 32
+02/12 13:55:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60247 auction=10 state=valid
+02/12 13:55:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60072 auction=14 state=valid
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Flight Owns: [4, 1, 0, 0, 1, 4, 0, 0]
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 0, 0]
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:55:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:22 FINE aw.PostTraumaticAgent|                    Y Length: 33
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Flight Owns: [4, 1, 0, 0, 1, 4, 0, 0]
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 0, 0]
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:55:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:32 FINE aw.PostTraumaticAgent|                    Y Length: 34
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Flight Owns: [4, 1, 0, 0, 1, 4, 0, 0]
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 0, 0]
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:55:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:42 FINE aw.PostTraumaticAgent|                    Y Length: 35
+02/12 13:55:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60247 auction=10 state=valid
+02/12 13:55:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60072 auction=14 state=valid
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Flight Owns: [4, 1, 0, 0, 1, 4, 0, 0]
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 0, 0]
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:55:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:55:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:55:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:55:52 FINE aw.PostTraumaticAgent|                    Y Length: 36
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Quote for auction: Cheap Hotel 3 has HQW ? true, HQW:1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ This is hotel price predictor for hotel auction:10
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ Current time in minutes is: 6
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ Current time in milli is: 361533
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ Predicted Price is: 206
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ Current Price is: 160.0
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ Current Price is: 46
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ Predicted for time (min  ): 7
+02/12 13:56:02 FINE aw.PostTraumaticAgent|************ Predicted for time (milli): 420000
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Flight Owns: [4, 1, 0, 0, 1, 4, 0, 0]
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 0, 0]
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                    Y Length: 37
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Bid Updated: id=60336 auction=10 state=valid
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 3 closed!
+02/12 13:56:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Old allocation: 2
+02/12 13:56:02 FINE aw.PostTraumaticAgent|New allocation: 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Own: 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|Here an auction needs reallocation: Good Hotel 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                     status string: Closed, status number: 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                              owns: 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                       allocations: 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                          my price: 3.0
+02/12 13:56:02 FINE aw.PostTraumaticAgent|                         ask price: 3.0
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Try shorten stay by 1 days for action: Good Hotel 3 for client: 6
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Try shorten stay by 2 days for action: Good Hotel 3 for client: 6
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Try shorten stay by 3 days for action: Good Hotel 3 for client: 6
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% hotelShortenStay() is called
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% flightType OutFlight
+02/12 13:56:02 FINE aw.PostTraumaticAgent|%%%%%%%%%%%%%% auctionDay 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Shorten Succeeded? false
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ First Hotel Day: 1
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Last  Hotel Day: 3
+02/12 13:56:02 FINE aw.PostTraumaticAgent|================ Failed to shorten stay for action: Good Hotel 3 for client: 5
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Flight Owns: [4, 1, 0, 0, 1, 4, 0, 0]
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 1, 0]
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:56:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [1, 0, 1, 0, 0, 0, 2, 0]
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:12 FINE aw.PostTraumaticAgent|                    Y Length: 38
+02/12 13:56:16 FINE aw.PostTraumaticAgent|Bid Updated: id=60336 auction=10 state=valid
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 1, 0]
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:56:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:22 FINE aw.PostTraumaticAgent|                    Y Length: 39
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 1, 0]
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:56:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:32 FINE aw.PostTraumaticAgent|                    Y Length: 40
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 1, 0]
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:56:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:42 FINE aw.PostTraumaticAgent|                    Y Length: 41
+02/12 13:56:46 FINE aw.PostTraumaticAgent|Bid Updated: id=60336 auction=10 state=valid
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 1, 0]
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:56:52 FINE aw.PostTraumaticAgent|                    Y Length: 42
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Bid Updated: id=60390 auction=0 state=transacted
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Bid Updated: id=60391 auction=1 state=transacted
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Bid Updated: id=60392 auction=2 state=transacted
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Bid Updated: id=60393 auction=4 state=transacted
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Bid Updated: id=60394 auction=5 state=transacted
+02/12 13:56:52 FINE aw.PostTraumaticAgent|Bid Updated: id=60395 auction=6 state=transacted
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 0, 0, 4, 4, 1, 0]
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|                    Y Length: 43
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Hotel auction Cheap Hotel 3 closed!
+02/12 13:57:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Old allocation: 1
+02/12 13:57:02 FINE aw.PostTraumaticAgent|New allocation: 0
+02/12 13:57:02 FINE aw.PostTraumaticAgent|Own: 1
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 1, 0, 4, 4, 1, 0]
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:57:12 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:12 FINE aw.PostTraumaticAgent|                    Y Length: 44
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 1, 0, 4, 4, 1, 0]
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:57:22 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:22 FINE aw.PostTraumaticAgent|                    Y Length: 45
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 1, 0, 4, 4, 1, 0]
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:57:32 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:32 FINE aw.PostTraumaticAgent|                    Y Length: 46
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 1, 0, 4, 4, 1, 0]
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:57:42 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:42 FINE aw.PostTraumaticAgent|                    Y Length: 47
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 1, 0, 4, 4, 1, 0]
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:57:52 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:57:52 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:57:52 FINE aw.PostTraumaticAgent|                    Y Length: 48
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Flight Owns: [5, 1, 1, 0, 1, 4, 2, 0]
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Hotel Owns: [0, 2, 1, 0, 4, 4, 1, 0]
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 1 hotel first/last days: 1, 2
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 2 hotel first/last days: 3, 3
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 3 hotel first/last days: 2, 2
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 4 hotel first/last days: 1, 1
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 5 hotel first/last days: 2, 3
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: false/false
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 6 hotel first/last days: 1, 3
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 7 hotel first/last days: 1, 2
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Client 8 hotel first/last days: 1, 2
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Is First/Last Day: true/true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|New Allocations after Processing: [0, 0, 0, 0, 0, 0, 0, 0]
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|                    Y Length: 49
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Hotel auction Good Hotel 4 closed!
+02/12 13:58:02 FINE aw.PostTraumaticAgent|              and of course it was not added before in the closed list, right? true
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Old allocation: 0
+02/12 13:58:02 FINE aw.PostTraumaticAgent|New allocation: 0
+02/12 13:58:02 FINE aw.PostTraumaticAgent|Own: 0
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ Clients with un-feasible travel package yet: [4, 5, 6, 7]
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 5
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ firstHotelDay? false
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ lastHotelDay?  false
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 6
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:12 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 7
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:12 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 8
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:12 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ Clients with no first and last hotel day : [4]
+02/12 13:58:12 FINE aw.PostTraumaticAgent|************ Totally Dropped Clients: [4]
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:12 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:12 FINE aw.PostTraumaticAgent|                    Y Length: 50
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ Clients with un-feasible travel package yet: [4, 5, 6, 7]
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 5
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ firstHotelDay? false
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:22 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 6
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:22 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 7
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:22 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 8
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:22 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ Clients with no first and last hotel day : []
+02/12 13:58:22 FINE aw.PostTraumaticAgent|************ Totally Dropped Clients: []
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:22 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:22 FINE aw.PostTraumaticAgent|                    Y Length: 51
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ Clients with un-feasible travel package yet: [4, 5, 6, 7]
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 5
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ firstHotelDay? false
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:32 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 6
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:32 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 7
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:32 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 8
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:32 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ Clients with no first and last hotel day : []
+02/12 13:58:32 FINE aw.PostTraumaticAgent|************ Totally Dropped Clients: []
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? false
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:32 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:32 FINE aw.PostTraumaticAgent|                    Y Length: 52
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ Clients with un-feasible travel package yet: [4, 5, 6, 7]
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 5
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ firstHotelDay? false
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:42 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 6
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:42 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 7
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:42 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 8
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:42 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ Clients with no first and last hotel day : []
+02/12 13:58:42 FINE aw.PostTraumaticAgent|************ Totally Dropped Clients: []
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|FlightPricePredictor buy now? true
+02/12 13:58:42 FINE aw.PostTraumaticAgent|                    Y Length: 53
+02/12 13:58:42 FINE aw.PostTraumaticAgent|Bid Updated: id=60485 auction=0 state=transacted
+02/12 13:58:42 FINE aw.PostTraumaticAgent|Bid Updated: id=60486 auction=4 state=transacted
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ Clients with un-feasible travel package yet: [4, 5, 6, 7]
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 5
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ firstHotelDay? false
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:52 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 6
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:52 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 7
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:52 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ This is client with yet not feasible travel package: 8
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ firstHotelDay? true
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ lastHotelDay?  true
+02/12 13:58:52 FINE aw.PostTraumaticAgent| ************ Client has first or last hotel day, we're trying to feasible his stay.
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ Clients with no first and last hotel day : []
+02/12 13:58:52 FINE aw.PostTraumaticAgent|************ Totally Dropped Clients: []
+02/12 13:59:02 FINE aw.TACAgent|Game 72 has ended
+02/12 13:59:02 FINE aw.PostTraumaticAgent|~~~~~~~ Flight Tickets Predictions profits       : [5.0, 88.0, -27.0, 474.0, -1.0, -50.0, 49.0, 374.0]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|~~~~~~~ Flight Tickets Predictions actual profits: [30.0, 88.0, -27.0, 0.0, -5.0, -200.0, 98.0, 0.0]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|~~~~~~~                            success ratio : 62.5 %
+02/12 13:59:02 FINE aw.PostTraumaticAgent|~~~~~~~                            profits (1 flight/day): 912.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|~~~~~~~                            total profits (actual bough flights): -16.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Start Printing All Flight Prices
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 1 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 323.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 314.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 320.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 331.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 338.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 345.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 350.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 344.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 342.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 341.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 340.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 349.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 362.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 370.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 364.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 376.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 379.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 377.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 369.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 379.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 387.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 388.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 389.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 388.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 404.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 395.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 386.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 399.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 396.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 411.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 402.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 413.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 406.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 411.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 421.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 440.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 442.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 443.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 448.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 461.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 473.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 479.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 477.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 493.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 505.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 516.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 532.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 533.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 551.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 567.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 568.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 584.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 583.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 588.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 2 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 385.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 395.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 402.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 403.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 406.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 404.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 396.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 387.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 391.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 383.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 383.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 381.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 393.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 386.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 393.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 404.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 397.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 393.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 388.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 383.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 397.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 402.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 397.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 409.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 419.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 414.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 429.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 442.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 449.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 441.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 435.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 431.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 430.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 429.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 438.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 433.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 445.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 446.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 452.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 466.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 461.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 471.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 477.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 486.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 484.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 485.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 486.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 492.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 502.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 520.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 538.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 532.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 540.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 559.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 3 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 366.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 367.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 363.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 365.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 359.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 356.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 358.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 368.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 366.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 375.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 367.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 357.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 348.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 348.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 346.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 338.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 343.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 342.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 332.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 330.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 340.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 348.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 343.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 339.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 337.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 340.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 334.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 344.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 334.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 331.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 322.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 316.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 325.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 319.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 328.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 335.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 335.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 328.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 329.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 327.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 330.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 326.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 324.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 319.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 324.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 314.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 312.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 303.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 307.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 300.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 302.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 296.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 295.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 299.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Inflight 4 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 279.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 273.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 275.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 282.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 278.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 279.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 280.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 286.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 287.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 297.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 308.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 321.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 325.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 323.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 317.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 316.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 329.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 320.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 318.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 327.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 322.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 319.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 313.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 324.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 332.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 334.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 333.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 333.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 327.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 326.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 337.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 340.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 357.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 360.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 366.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 368.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 383.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 390.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 404.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 406.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 405.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 413.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 424.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 434.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 436.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 441.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 451.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 442.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 444.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 466.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 473.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 479.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 482.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 474.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 2 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 309.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 317.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 327.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 317.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 312.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 318.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 321.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 331.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 326.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 326.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 321.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 312.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 322.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 320.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 318.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 315.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 317.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 310.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 324.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 319.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 311.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 324.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 333.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 338.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 331.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 321.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 325.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 341.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 338.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 344.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 343.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 351.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 346.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 355.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 368.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 379.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 376.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 371.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 388.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 399.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 400.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 404.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 399.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 407.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 418.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 430.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 422.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 415.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 426.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 434.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 440.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 456.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 475.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 474.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 3 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 386.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 377.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 378.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 380.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 371.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 374.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 369.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 364.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 357.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 363.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 369.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 370.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 360.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 368.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 374.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 373.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 368.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 368.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 365.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 357.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 359.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 364.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 366.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 367.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 357.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 359.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 363.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 367.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 361.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 355.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 351.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 345.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 342.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 346.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 343.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 340.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 340.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 330.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 330.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 330.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 323.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 313.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 309.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 300.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 303.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 299.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 289.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 286.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 281.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 283.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 273.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 269.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 269.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 263.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 4 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 303.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 298.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 303.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 298.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 299.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 306.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 313.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 308.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 311.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 306.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 309.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 306.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 301.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 295.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 300.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 304.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 309.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 306.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 308.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 300.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 294.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 285.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 284.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 276.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 279.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 274.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 274.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 264.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 255.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 245.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 236.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 229.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 219.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 211.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 212.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 208.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 199.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 207.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 212.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 218.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 227.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 232.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 232.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 238.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 246.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 248.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 255.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 257.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 262.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 263.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 273.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 277.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 276.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 281.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Outflight 5 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|142, 296.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|11234, 288.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|21280, 291.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|31285, 294.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|41289, 289.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|51294, 281.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61306, 279.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|71307, 270.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|81386, 270.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|91374, 281.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|101379, 291.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|111382, 284.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121451, 289.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|131395, 287.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|141400, 287.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|151406, 289.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|161410, 281.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171419, 279.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181480, 284.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|191463, 274.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|201469, 285.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|211472, 285.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|221475, 280.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|231478, 273.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 272.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|251490, 269.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|261495, 282.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|271498, 294.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|281503, 303.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|291507, 296.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301520, 301.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|311519, 294.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|321521, 284.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|331524, 294.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|341530, 295.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|351532, 306.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 318.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|371542, 325.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|381550, 323.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|391553, 339.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|401576, 345.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|411576, 356.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421580, 347.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|431584, 360.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|441586, 353.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|451592, 344.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|461598, 336.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|471603, 332.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481606, 342.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|491613, 349.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|501616, 351.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|511622, 367.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|521629, 379.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|531630, 374.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Finish Printing All Flight Prices
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Start Printing All Hotel Prices
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 1 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|170, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61296, 112.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 2 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|171, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61297, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121384, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 3 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|172, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61299, 129.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121384, 131.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181454, 158.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241480, 158.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301507, 158.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361532, 158.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421574, 158.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Cheap Hotel 4 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|173, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61300, 120.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121430, 133.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181462, 136.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 1 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|176, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61300, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121430, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181462, 2.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241486, 3.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301512, 3.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 2 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|177, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61301, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121438, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181468, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241493, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 3 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|178, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61303, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121444, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181473, 2.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241493, 3.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301512, 3.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 3.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing (time, price) for Good Hotel 4 :
+02/12 13:59:02 FINE aw.PostTraumaticAgent|188, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|61304, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|121450, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|181479, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|241500, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|301519, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|361539, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|421575, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|481601, 0.0
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Finish Printing All Hotel Prices
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Printing Client Preferences
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 1 : [1, 2, 121, 58, 152, 167]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 2 : [1, 2, 117, 98, 22, 4]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 3 : [2, 3, 55, 134, 51, 33]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 4 : [1, 2, 95, 166, 103, 105]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 5 : [2, 4, 64, 14, 34, 100]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 6 : [1, 4, 148, 73, 40, 62]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 7 : [1, 3, 84, 48, 117, 34]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Client 8 : [1, 3, 115, 85, 136, 174]
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Finish Printing Client Preferences
+02/12 13:59:02 FINE aw.PostTraumaticAgent|Game Stopped!
+02/12 13:59:02 FINE aw.TACAgent|Game log complete
+************************************************************
+* Game log complete
+************************************************************
+
+
